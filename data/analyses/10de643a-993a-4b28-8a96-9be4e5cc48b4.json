@@ -1,0 +1,98 @@
+{
+  "overall_score": 20.45,
+  "category_scores": {
+    "Problem & Solution": 0,
+    "Market Opportunity": 0,
+    "Business Model": 5.0,
+    "Competitive Advantage": 93.0,
+    "Traction & Validation": 15.0,
+    "Team": 35.0,
+    "Financial Projections": 0
+  },
+  "category_feedback": {
+    "Problem & Solution": {
+      "analysis": "The provided content is a resume/CV for an individual, not a pitch deck. As such, it does not contain dedicated 'Problem' or 'Solution' sections that articulate a market pain point or a proposed business offering to address it. Therefore, there is no content to evaluate against the criteria for Problem & Solution in a venture capital context.",
+      "key_points": [
+        "Content is a resume, not a pitch deck.",
+        "No problem statement or market pain point is articulated.",
+        "No solution or business offering is proposed.",
+        "The document describes an individual's qualifications, projects, and experience, not a startup's market opportunity."
+      ]
+    },
+    "Market Opportunity": {
+      "analysis": "The provided content is a personal resume and completely lacks any information regarding a specific market opportunity for a venture. It details an individual's skills, education, experience, and projects, but does not identify a problem being solved, a target market, market size, or growth trends relevant to a startup. Consequently, there is no basis to evaluate the clarity, completeness, or persuasiveness of any market opportunity.",
+      "key_points": [
+        "Content is a resume, not a venture pitch defining a market.",
+        "No articulation of a specific problem or pain point for a market segment.",
+        "Absence of target customer identification, market size (TAM, SAM, SOM), or market growth data.",
+        "Lack of evidence or data to support the existence or potential of a market opportunity."
+      ]
+    },
+    "Business Model": {
+      "analysis": "The provided content is a personal resume for an individual, Deepanshu Gautam, detailing their academic background, work experience, projects, and skills. It does not present any information related to a business model, such as target market, value proposition, revenue streams, cost structure, or operational strategy for a company. Therefore, it's impossible to evaluate a business model from this document.",
+      "key_points": [
+        "The document is a personal resume, not a company pitch deck.",
+        "There is no information about a business model for any venture or company.",
+        "Content focuses exclusively on an individual's qualifications, not how a business would create or capture value."
+      ]
+    },
+    "Competitive Advantage": {
+      "analysis": "This profile demonstrates a highly competitive individual technical advantage, particularly for an early-career professional. Deepanshu excels in the critical blend of cutting-edge AI (GenAI, RAG, LLMs) and robust MLOps practices for production-grade deployment, validated by quantifiable achievements in real-world projects and internships. His entrepreneurial activities further suggest a valuable founder-fit, offering a strong technical and strategic asset to any AI-focused venture.",
+      "key_points": [
+        "Full-stack AI/MLOps expertise, capable of building and deploying scalable, production-grade AI pipelines end-to-end.",
+        "Specialization in cutting-edge Generative AI, RAG-based systems, and LLMs, highly sought-after for innovative AI product development.",
+        "Demonstrated ability to deliver measurable business impact, consistently quantifying efficiency improvements and latency reductions in projects and experience."
+      ]
+    },
+    "Traction & Validation": {
+      "analysis": "This content is a strong founder profile showcasing exceptional technical skills, relevant experience, and an understanding of business impact, but it provides no direct evidence of product-market fit, customer acquisition, or revenue traction for a specific startup. The metrics highlighted relate to contributions made to other companies or personal projects, not to a new venture's market validation. While the individual's capabilities are impressive, this section utterly lacks the necessary proof of market adoption or validation required for a traction assessment.",
+      "key_points": [
+        "No explicit product traction (users, revenue, partnerships) for a specific startup or new offering.",
+        "Performance metrics (e.g., 20% latency reduction, 40% time reduction) are for contributions to past employers or personal projects, not for market validation of a pitched product.",
+        "Demonstrates strong technical and problem-solving skills, indicating potential for future traction, but no current validation."
+      ]
+    },
+    "Team": {
+      "analysis": "This profile showcases a highly ambitious individual with strong technical skills and a clear understanding of relevant AI/ML domains. However, a significant concern is the pervasive use of future dates for almost all listed experience, projects, and leadership roles, which severely undermines current credibility and the evidence base for achievements. As a single profile, it also provides no insight into a broader team's complementary skills or dynamics.",
+      "key_points": [
+        "**Major Credibility Red Flag:** All professional experience, projects, and leadership activities are dated in the future (2024-2025), indicating a lack of current, demonstrable achievements as presented.",
+        "**Strong Technical Potential:** The individual clearly possesses relevant skills in AI/ML, MLOps, and data engineering, along with a solid academic background, suggesting high technical aptitude and future capability.",
+        "**Incomplete Team Overview:** This slide presents only one individual, failing to provide any information on the rest of the team's composition, complementary skill sets, or how team cohesion will be managed."
+      ]
+    },
+    "Financial Projections": {
+      "analysis": "The provided pitch deck content is a personal resume and does not contain any financial projections. There is no information regarding revenue models, market size, funding asks, burn rate, or any other financial metrics typically found in a startup pitch deck. As such, it is impossible to evaluate financial projections based on this document.",
+      "key_points": [
+        "No financial projection data is present in the document.",
+        "The content provided is a personal resume, not a company pitch deck.",
+        "Unable to evaluate clarity, completeness, evidence, persuasiveness, or presentation of financial projections due to complete absence."
+      ]
+    }
+  },
+  "strengths": [
+    "**Competitive Advantage**: This profile demonstrates a highly competitive individual technical advantage, particularly for an early-career professional. Deepanshu excels in the critical blend of cutting-edge AI (GenAI, RAG, LLMs) and robust MLOps practices for production-grade deployment, validated by quantifiable achievements in real-world projects and internships. His entrepreneurial activities further suggest a valuable founder-fit, offering a strong technical and strategic asset to any AI-focused venture."
+  ],
+  "weaknesses": [
+    "**Problem & Solution** (Score: 0): The provided content is a resume/CV for an individual, not a pitch deck. As such, it does not contain dedicated 'Problem' or 'Solution' sections that articulate a market pain point or a proposed business offering to address it. Therefore, there is no content to evaluate against the criteria for Problem & Solution in a venture capital context.",
+    "**Market Opportunity** (Score: 0): The provided content is a personal resume and completely lacks any information regarding a specific market opportunity for a venture. It details an individual's skills, education, experience, and projects, but does not identify a problem being solved, a target market, market size, or growth trends relevant to a startup. Consequently, there is no basis to evaluate the clarity, completeness, or persuasiveness of any market opportunity.",
+    "**Financial Projections** (Score: 0): The provided pitch deck content is a personal resume and does not contain any financial projections. There is no information regarding revenue models, market size, funding asks, burn rate, or any other financial metrics typically found in a startup pitch deck. As such, it is impossible to evaluate financial projections based on this document."
+  ],
+  "recommendations": [
+    "Add a dedicated slide clearly defining the core problem the target customer faces, followed by a concise explanation of your unique solution and its key benefits. Use data or anecdotes to illustrate the problem's severity.",
+    "Introduce a slide that quantifies the Total Addressable Market (TAM), Serviceable Available Market (SAM), and Serviceable Obtainable Market (SOM). Clearly define your target customer segment and provide evidence for market growth.",
+    "Develop a 'Financial Projections & Ask' slide. Include 3-5 year revenue forecasts, key assumptions, a clear funding request, and a breakdown of how the funds will be utilized to achieve specific milestones.",
+    "Create a dedicated 'Business Model' slide that clearly outlines your pricing strategy, revenue streams (e.g., subscription, transaction fee, freemium), and customer acquisition costs. Explain how the company plans to generate profit.",
+    "Enhance the 'Traction' section with specific metrics like user growth, customer acquisition numbers, early revenue figures, pilot program results, or key partnership agreements. Quantify all achievements to demonstrate market acceptance and momentum."
+  ],
+  "executive_summary": "This submission, an individual’s resume rather than a business pitch deck, scored 20.4/100 due to a complete absence of venture-centric content. It effectively highlights Deepanshu’s exceptional early-career technical advantage in cutting-edge AI and MLOps, supported by quantifiable achievements and entrepreneurial drive. However, critical sections such as Problem, Solution, Market Opportunity, and Financial Projections were entirely missing, precluding evaluation as a business proposition. While showcasing strong individual talent, the submission did not present a fundable business case.",
+  "extracted_text": "Deepanshu Gautam\nAI Engineer | ML Developer | Data Scientist\n# shupandee@gmail.com | (cid:131) +91-9821582187 | (cid:239) LinkedIn | § GitHub\nSummary\nB.Tech student specializing in Computer Science and Artificial Intelligence at IIIT Ranchi, with hands-on experience in\nMachine Learning, Generative AI, and RAG-based systems. Specializes in developing scalable, production-grade AI pipelines\nusing Python, FastAPI, and MLOps tools. Demonstrates strong analytical and deployment skills with focus on delivering\nmeasurable, real-world business impact.\nEducation\nIndian Institute of Information Technology Ranchi Ranchi, India\nB.Tech in Computer Science and Engineering (Data Science & AI) 2023 – 2027\nCGPA: 8.0\nExperience\nOrion Eduverse Pvt Ltd Remote/Hybrid\nAI Intern Sep 2025 – Oct 2025\n○ Developed and deployed AI-driven learning automation tools using Python, FastAPI, and Docker, integrated with GCP/AWS.\n○ Implemented preprocessing and evaluation modules that improved data consistency and reduced inference latency by 20%.\n○ Delivered production-grade microservices following best practices for scalability and CI/CD deployment.\nFinshots (by Zerodha) Remote\nStudent Partner Sep 2024 – Present\n○ Automated engagement and analytics tracking using Python-based data pipelines, improving efficiency by 30%.\n○ Built Power BI dashboards for campaign insights and outreach impact.\n○ Facilitated brand awareness and financial literacy across 10+ student communities.\nProjects\nPython, Docker, Kafka, CLI Tools\nSynthetic MELT Data Generator § 2025\n○ Designed a synthetic observability data generator (Metrics, Events, Logs, Traces) for MLOps testing and anomaly detection research.\n○ Implemented configurable schema validation, anomaly injection, and Kafka-based streaming for real-time experimentation.\nPython, Streamlit, LangChain, MongoDB\nMCA Insights Engine § 2025\n○ Built an AI-powered dashboard to analyze MCA datasets and track corporate evolution with LLM-driven search.\n○ Integrated LangChain-based chatbot for financial and legal dataset querying.\nPython, Neo4j, Pinecone, OpenAI API, LangChain\nAI Hybrid Chat Evaluator § 2025\n○ Designed a hybrid retrieval and evaluation engine combining vector search and graph reasoning for chat assessment.\n○ Implemented LLM-as-a-judge scoring for contextual accuracy, reducing manual evaluation time by 40%.\nLeadership & Activities\nEntrepreneurship Cell, IIIT Ranchi\nTreasurer & Coordinator 2025\n○ Managed event budgets, sponsorships, and technical innovation challenges with 400+ participants.\nNational E-Cell Network IIIT Bhagalpur\nPoint of Contact 2025\n○ Organized inter-college entrepreneurial collaborations and resource-sharing initiatives.\nSkills\nProgramming: Python, C++, SQL\nAI/ML Frameworks: PyTorch, TensorFlow, Keras, Scikit-Learn, Hugging Face Transformers, LangChain, RAG, LLMs\nMLOps & Cloud: MLflow, FastAPI, Docker, Kubernetes, Git/GitHub, CI/CD (GitHub Actions), GCP, AWS, Azure\nData Tools: Power BI, MongoDB, Kafka, Data Engineering Pipelines\nOther Skills: Prompt Engineering, Problem Solving, API Design, Data Analytics",
+  "metadata": {
+    "title": " ",
+    "author": " ",
+    "subject": "Résumé of  ",
+    "creator": "LaTeX with 'moderncv' package"
+  },
+  "filename": "lol.pdf",
+  "id": "10de643a-993a-4b28-8a96-9be4e5cc48b4",
+  "created_at": "2025-11-15T23:32:50.876598"
+}

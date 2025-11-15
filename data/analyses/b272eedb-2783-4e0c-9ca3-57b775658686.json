@@ -1,0 +1,99 @@
+{
+  "overall_score": 46.1,
+  "category_scores": {
+    "Problem & Solution": 68.0,
+    "Market Opportunity": 70.0,
+    "Business Model": 70.0,
+    "Competitive Advantage": 35.0,
+    "Traction & Validation": 15.0,
+    "Team": 25.0,
+    "Financial Projections": 15.0
+  },
+  "category_feedback": {
+    "Problem & Solution": {
+      "analysis": "The Problem statement is clear but superficial, failing to provide data or specific pain points to quantify its impact on SMBs. While the Solution clearly outlines its AI-driven features, it needs to elaborate on its unique approach and differentiation from existing financial tools. Both sections are excessively concise, hindering persuasiveness and credibility by omitting crucial evidence and specific value proposition.",
+      "key_points": [
+        "Problem statement lacks depth and supporting data to fully convey its magnitude.",
+        "Solution clearly defines core functionalities but needs more detail on unique AI capabilities and market differentiation.",
+        "The extreme conciseness of both sections reduces overall persuasiveness and credibility."
+      ]
+    },
+    "Market Opportunity": {
+      "analysis": "The market opportunity presents a substantial $50B target in the SMB financial tools sector, indicating a large potential addressable market. However, the information lacks depth, providing no segmentation, growth rates, or specific evidence to substantiate the market size or how FinTrackAI plans to capture a meaningful share. More detail on market trends and sub-segments would strengthen the credibility.",
+      "key_points": [
+        "Identifies a large, potentially lucrative market ($50B SMB financial tools sector).",
+        "Lacks detailed market segmentation, growth rates, or specific target sub-segments within SMBs.",
+        "No evidence or source for the $50B figure is provided, weakening data quality and credibility."
+      ]
+    },
+    "Business Model": {
+      "analysis": "The business model clearly identifies a subscription-based approach, which is standard and appropriate for SaaS. While a starting price point is provided, the section severely lacks detail on pricing tiers, value metrics (e.g., per user, per feature set, per transaction volume), and any justification or competitive analysis for the chosen structure, limiting its persuasiveness and completeness for investors.",
+      "key_points": [
+        "Clearly defines a subscription-based SaaS model.",
+        "Provides only a starting price without details on tiers or value propositions.",
+        "Lacks justification, competitive analysis, or economic rationale for the pricing strategy."
+      ]
+    },
+    "Competitive Advantage": {
+      "analysis": "The pitch deck severely lacks content articulating FinTrackAI's competitive advantage, completely omitting a dedicated 'Competition' section. While 'AI models' are mentioned, the specific differentiation, unique selling propositions, or sustainable moats against existing incumbents or future competitors are not clearly defined or supported. This omission makes it difficult to assess the venture's defensibility and long-term market position, aligning with the initial AI analysis noting that 'differentiation from incumbents could be strengthened.'",
+      "key_points": [
+        "Complete absence of a dedicated 'Competition' section in the provided pitch deck content.",
+        "Lack of clear articulation on how 'AI models' provide a distinct and defensible competitive advantage over existing solutions.",
+        "No mention of unique selling propositions, proprietary technology, or potential moats that would prevent replication or maintain market share."
+      ]
+    },
+    "Traction & Validation": {
+      "analysis": "The provided pitch deck content completely lacks any specific data or metrics regarding traction or validation. While an external AI analysis notes 'promising traction' and assigns an 8/10 score, the actual generated deck offers no concrete evidence such as user numbers, revenue, growth rates, or pilot results. This critical omission makes it impossible for an investor to assess product-market fit or market acceptance effectively.",
+      "key_points": [
+        "No specific traction metrics (e.g., users, revenue, growth rate) are present in the pitch deck content.",
+        "The deck fails to provide any evidence or data to support claims of product-market fit or market validation.",
+        "Reliance solely on an external AI assessment of 'promising traction' is insufficient for investor evaluation and due diligence."
+      ]
+    },
+    "Team": {
+      "analysis": "The team information is critically sparse, providing only the number of founders and a general 'fintech backgrounds' descriptor. It completely lacks essential details such as individual founder names, specific relevant experience in AI or SMB finance, past achievements, or complementary skill sets crucial for executing an AI-powered financial solution. This significant absence of detail severely hinders the assessment of the team's capabilities and credibility.",
+      "key_points": [
+        "Extremely limited information provided about the founding team.",
+        "Lacks specific individual founder names, roles, or past relevant achievements.",
+        "No evidence of specific AI/ML expertise crucial for an 'AI-powered' solution.",
+        "Missing details on domain expertise in SMB finance or previous startup experience."
+      ]
+    },
+    "Financial Projections": {
+      "analysis": "The pitch deck critically lacks a dedicated section or any substantive information on financial projections. It only briefly mentions the subscription pricing model and the seed round ask, which are insufficient to assess future financial performance, capital efficiency, or use of funds. This significant omission severely hinders investor due diligence and raises serious concerns about the planning and financial foresight of the founders.",
+      "key_points": [
+        "Complete absence of detailed financial projections (revenue forecasts, expense breakdowns, growth targets).",
+        "No information provided regarding the detailed use of the $500k seed round, burn rate, or projected runway.",
+        "Lacks key financial metrics and assumptions (e.g., CAC, LTV, churn rates, market penetration assumptions).",
+        "Only the business model's starting price and the funding ask are mentioned, not actual projections."
+      ]
+    }
+  },
+  "strengths": [
+    "**Market Opportunity**: The market opportunity presents a substantial $50B target in the SMB financial tools sector, indicating a large potential addressable market. However, the information lacks depth, providing no segmentation, growth rates, or specific evidence to substantiate the market size or how FinTrackAI plans to capture a meaningful share. More detail on market trends and sub-segments would strengthen the credibility.",
+    "**Business Model**: The business model clearly identifies a subscription-based approach, which is standard and appropriate for SaaS. While a starting price point is provided, the section severely lacks detail on pricing tiers, value metrics (e.g., per user, per feature set, per transaction volume), and any justification or competitive analysis for the chosen structure, limiting its persuasiveness and completeness for investors."
+  ],
+  "weaknesses": [
+    "**Traction & Validation** (Score: 15): The provided pitch deck content completely lacks any specific data or metrics regarding traction or validation. While an external AI analysis notes 'promising traction' and assigns an 8/10 score, the actual generated deck offers no concrete evidence such as user numbers, revenue, growth rates, or pilot results. This critical omission makes it impossible for an investor to assess product-market fit or market acceptance effectively.",
+    "**Financial Projections** (Score: 15): The pitch deck critically lacks a dedicated section or any substantive information on financial projections. It only briefly mentions the subscription pricing model and the seed round ask, which are insufficient to assess future financial performance, capital efficiency, or use of funds. This significant omission severely hinders investor due diligence and raises serious concerns about the planning and financial foresight of the founders.",
+    "**Team** (Score: 25): The team information is critically sparse, providing only the number of founders and a general 'fintech backgrounds' descriptor. It completely lacks essential details such as individual founder names, specific relevant experience in AI or SMB finance, past achievements, or complementary skill sets crucial for executing an AI-powered financial solution. This significant absence of detail severely hinders the assessment of the team's capabilities and credibility."
+  ],
+  "recommendations": [
+    "Develop a dedicated 'Traction & Milestones' slide. Include specific metrics like beta users, pilot program results (even qualitative early feedback), pre-orders, letters of intent, or key partnerships. Clearly articulate quantifiable progress made to date.",
+    "Create a detailed 'Financial Projections' slide. Clearly show a 3-5 year forecast for revenue, COGS, gross margin, and key growth drivers (e.g., customer acquisition, average revenue per user). Include realistic and well-supported assumptions for these figures.",
+    "Revamp the 'Team' slide to highlight the relevant experience and expertise of each core founder. Focus on past achievements directly pertinent to the startup's success (e.g., industry-specific knowledge, successful exits, relevant technical skills). Clearly outline advisory board members if available and their value.",
+    "Strengthen the 'Competitive Advantage' slide. Clearly articulate specific defensible moats such as proprietary technology (patents pending/granted), unique data sets, strong network effects, exclusive partnerships, or deep domain expertise that is hard to replicate. Avoid generic statements and focus on concrete differentiators.",
+    "Add a 'Use of Funds' slide. Clearly break down how the requested investment will be allocated across key areas (e.g., product development, marketing, hiring, operational expenses) and explain how this allocation directly leads to achieving specific milestones and accelerating growth."
+  ],
+  "executive_summary": "FinTrackAI targets a substantial $50B SMB financial tools market with a clear subscription-based business model, highlighting significant market potential. However, the pitch critically lacks specific traction and validation data, making it difficult to assess product-market fit. Furthermore, the absence of detailed financial projections and comprehensive team information significantly impedes investor evaluation of future viability and execution capability. While the market opportunity is compelling, these critical omissions require substantial development to present a complete investment picture.",
+  "extracted_text": "FinTrackAI\n AI-powered finance assistant for SMBs.\nCategory\nScore (/10)\nProblem\n9\nSolution\n8\nMarket\n8\nBusiness Model\n7\nCompetition\n6\nTraction\n8\nFinancials\n7\nAverage Score: 76/100\nAI Analysis\nFinTrackAI addresses a real problem in SMB finance automation with a solid AI-driven approach.\nThe solution is practical and market-ready, though differentiation from incumbents could be\nstrengthened. The traction is promising, indicating early product-market fit.\nGenerated Pitch Deck\nCover:\nFinTrackAI — AI-powered Finance Assistant Contact: founders@fintrackai.com\nProblem:\nSMBs lack real-time financial insights and automation.\nSolution:\nAI models categorize expenses and forecast cashflows automatically.\nMarket:\nTargeting the $50B SMB financial tools sector with scalable SaaS model.\nProduct:\nWeb dashboard + API integration for bookkeeping and analytics.\nBusiness Model:\nSubscription-based pricing starting at $29/month.\n\nTeam & Ask:\n3 founders from fintech backgrounds; raising $500k seed round.\n",
+  "metadata": {
+    "title": "(anonymous)",
+    "author": "(anonymous)",
+    "subject": "(unspecified)",
+    "creator": "(unspecified)"
+  },
+  "filename": "sample_pitchdeck.pdf",
+  "id": "b272eedb-2783-4e0c-9ca3-57b775658686",
+  "created_at": "2025-11-15T22:58:48.077567"
+}

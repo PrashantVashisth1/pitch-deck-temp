@@ -1,0 +1,223 @@
+{
+  "analyses": [
+    {
+      "id": "0d32daa4-d81f-49ae-a7f2-c0adca532893",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 50.0,
+      "created_at": "2025-10-20T13:17:12.149317",
+      "file_path": "..\\data\\analyses\\0d32daa4-d81f-49ae-a7f2-c0adca532893.json"
+    },
+    {
+      "id": "7d31f19f-8db1-49ce-8084-07f101a4e62b",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 50.0,
+      "created_at": "2025-10-20T13:19:18.214388",
+      "file_path": "..\\data\\analyses\\7d31f19f-8db1-49ce-8084-07f101a4e62b.json"
+    },
+    {
+      "id": "81777260-bb87-4988-83a9-02db778f12f8",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 50.0,
+      "created_at": "2025-10-20T13:21:37.356183",
+      "file_path": "..\\data\\analyses\\81777260-bb87-4988-83a9-02db778f12f8.json"
+    },
+    {
+      "id": "934a450f-e6e3-41dd-a709-1c142f7e2272",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 50.0,
+      "created_at": "2025-10-25T15:14:12.734408",
+      "file_path": "..\\data\\analyses\\934a450f-e6e3-41dd-a709-1c142f7e2272.json"
+    },
+    {
+      "id": "1a2b25b9-7cc5-4b1e-ad44-22a576d51110",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 50.0,
+      "created_at": "2025-10-25T15:21:14.532917",
+      "file_path": "..\\data\\analyses\\1a2b25b9-7cc5-4b1e-ad44-22a576d51110.json"
+    },
+    {
+      "id": "e7fb8665-aa50-42df-bfbd-ca5732b605ea",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 50.0,
+      "created_at": "2025-10-25T15:23:23.194497",
+      "file_path": "..\\data\\analyses\\e7fb8665-aa50-42df-bfbd-ca5732b605ea.json"
+    },
+    {
+      "id": "15c1ed36-5862-4d27-8f17-fd9da4d635ae",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 50.0,
+      "created_at": "2025-10-25T15:23:35.891251",
+      "file_path": "..\\data\\analyses\\15c1ed36-5862-4d27-8f17-fd9da4d635ae.json"
+    },
+    {
+      "id": "7587118d-d1ca-40db-92a9-fae23fc5448b",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 50.0,
+      "created_at": "2025-10-25T15:31:54.062479",
+      "file_path": "..\\data\\analyses\\7587118d-d1ca-40db-92a9-fae23fc5448b.json"
+    },
+    {
+      "id": "99afc71d-4d62-4407-93e1-6ad0bdf94d5a",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 50.0,
+      "created_at": "2025-10-25T15:43:18.821588",
+      "file_path": "..\\data\\analyses\\99afc71d-4d62-4407-93e1-6ad0bdf94d5a.json"
+    },
+    {
+      "id": "f26511d6-210c-4ad2-8251-46a2a75c6f78",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 50.0,
+      "created_at": "2025-10-25T15:57:16.677829",
+      "file_path": "..\\data\\analyses\\f26511d6-210c-4ad2-8251-46a2a75c6f78.json"
+    },
+    {
+      "id": "7099aeae-969d-40dd-85a7-d94026548a2f",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 50.0,
+      "created_at": "2025-10-25T16:01:27.257317",
+      "file_path": "..\\data\\analyses\\7099aeae-969d-40dd-85a7-d94026548a2f.json"
+    },
+    {
+      "id": "f7c4bda5-f711-426e-bb48-14c247c8810b",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 50.0,
+      "created_at": "2025-10-25T16:09:14.928564",
+      "file_path": "..\\data\\analyses\\f7c4bda5-f711-426e-bb48-14c247c8810b.json"
+    },
+    {
+      "id": "b1993705-2b93-43e3-99b4-213026f6b590",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 46.6,
+      "created_at": "2025-10-25T16:15:25.321988",
+      "file_path": "..\\data\\analyses\\b1993705-2b93-43e3-99b4-213026f6b590.json"
+    },
+    {
+      "id": "7f8969ae-dcf5-4370-9cbb-91ceef9f20ff",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 43.65,
+      "created_at": "2025-10-25T16:21:54.132145",
+      "file_path": "..\\data\\analyses\\7f8969ae-dcf5-4370-9cbb-91ceef9f20ff.json"
+    },
+    {
+      "id": "587e06aa-b6ce-4626-a0d4-f59e7bc05980",
+      "filename": "Neural Draft Pitch Deck (v3) (1).pdf",
+      "score": 77.3,
+      "created_at": "2025-10-25T16:24:57.491299",
+      "file_path": "..\\data\\analyses\\587e06aa-b6ce-4626-a0d4-f59e7bc05980.json"
+    },
+    {
+      "id": "c959689b-1d54-457f-bb4c-300a53150869",
+      "filename": "Neural Draft Pitch Deck (v3) (1).pdf",
+      "score": 75.6,
+      "created_at": "2025-11-03T10:28:49.468210",
+      "file_path": "..\\data\\analyses\\c959689b-1d54-457f-bb4c-300a53150869.json"
+    },
+    {
+      "id": "92bbe5fe-a180-4d57-9f7d-b3e004377b59",
+      "filename": "Neural Draft Pitch Deck (v3) (1).pdf",
+      "score": 50.0,
+      "created_at": "2025-11-15T22:24:57.604610",
+      "file_path": "..\\data\\analyses\\92bbe5fe-a180-4d57-9f7d-b3e004377b59.json"
+    },
+    {
+      "id": "d04de84f-3ec6-4c48-96a5-2514def61bff",
+      "filename": "Neural Draft Pitch Deck (v3) (1).pdf",
+      "score": 50.0,
+      "created_at": "2025-11-15T22:27:44.227891",
+      "file_path": "..\\data\\analyses\\d04de84f-3ec6-4c48-96a5-2514def61bff.json"
+    },
+    {
+      "id": "dee6d22e-4c7d-42e1-9ad7-46524085ef67",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 51.2,
+      "created_at": "2025-11-15T22:34:20.841941",
+      "file_path": "..\\data\\analyses\\dee6d22e-4c7d-42e1-9ad7-46524085ef67.json"
+    },
+    {
+      "id": "4104e8b6-febc-4ab7-8b69-8ec215646c45",
+      "filename": "Neural Draft Pitch Deck (v3) (1).pdf",
+      "score": 71.8,
+      "created_at": "2025-11-15T22:45:01.181239",
+      "file_path": "..\\data\\analyses\\4104e8b6-febc-4ab7-8b69-8ec215646c45.json"
+    },
+    {
+      "id": "5d631657-2d8f-47f0-bf89-cb697d401029",
+      "filename": "Neural Draft Pitch Deck (v3) (1).pdf",
+      "score": 70.8,
+      "created_at": "2025-11-15T22:55:37.642302",
+      "file_path": "..\\data\\analyses\\5d631657-2d8f-47f0-bf89-cb697d401029.json"
+    },
+    {
+      "id": "b272eedb-2783-4e0c-9ca3-57b775658686",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 46.1,
+      "created_at": "2025-11-15T22:58:48.077567",
+      "file_path": "..\\data\\analyses\\b272eedb-2783-4e0c-9ca3-57b775658686.json"
+    },
+    {
+      "id": "37499699-7c4f-4c27-b512-b9ca204fc0e8",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 51.0,
+      "created_at": "2025-11-15T23:04:30.138711",
+      "file_path": "..\\data\\analyses\\37499699-7c4f-4c27-b512-b9ca204fc0e8.json"
+    },
+    {
+      "id": "4bc9fb6d-4c1f-4604-ae7f-8561883a922b",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 54.55,
+      "created_at": "2025-11-15T23:08:25.845298",
+      "file_path": "..\\data\\analyses\\4bc9fb6d-4c1f-4604-ae7f-8561883a922b.json"
+    },
+    {
+      "id": "e463e38e-ff11-4223-91ff-2581485cec63",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 54.55,
+      "created_at": "2025-11-15T23:12:04.598804",
+      "file_path": "..\\data\\analyses\\e463e38e-ff11-4223-91ff-2581485cec63.json"
+    },
+    {
+      "id": "fd23a13f-f72e-4d52-aa7d-4357dc0cd1d2",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 51.2,
+      "created_at": "2025-11-15T23:15:46.612447",
+      "file_path": "..\\data\\analyses\\fd23a13f-f72e-4d52-aa7d-4357dc0cd1d2.json"
+    },
+    {
+      "id": "22718784-5b9b-4264-8878-24fdd280a6fe",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 49.25,
+      "created_at": "2025-11-15T23:19:54.520901",
+      "file_path": "..\\data\\analyses\\22718784-5b9b-4264-8878-24fdd280a6fe.json"
+    },
+    {
+      "id": "bc202433-396b-444b-9521-05355544ee26",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 50.75,
+      "created_at": "2025-11-15T23:26:11.338142",
+      "file_path": "..\\data\\analyses\\bc202433-396b-444b-9521-05355544ee26.json"
+    },
+    {
+      "id": "561a5713-6813-4445-840a-6157b69de155",
+      "filename": "sample_pitchdeck.pdf",
+      "score": 46.45,
+      "created_at": "2025-11-15T23:30:26.936270",
+      "file_path": "..\\data\\analyses\\561a5713-6813-4445-840a-6157b69de155.json"
+    },
+    {
+      "id": "10de643a-993a-4b28-8a96-9be4e5cc48b4",
+      "filename": "lol.pdf",
+      "score": 20.45,
+      "created_at": "2025-11-15T23:32:50.876598",
+      "file_path": "..\\data\\analyses\\10de643a-993a-4b28-8a96-9be4e5cc48b4.json"
+    },
+    {
+      "id": "4c0cb74a-8cd4-4a70-b0a5-359a64be5841",
+      "filename": "HS 3001 ED UNIT 1.pdf",
+      "score": 1.0,
+      "created_at": "2025-11-15T23:50:50.731519",
+      "file_path": "..\\data\\analyses\\4c0cb74a-8cd4-4a70-b0a5-359a64be5841.json"
+    }
+  ],
+  "created_at": "2025-10-20T13:09:17.106333",
+  "version": "1.0.0"
+}

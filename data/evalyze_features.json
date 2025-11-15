@@ -1,0 +1,49 @@
+{
+  "scraped_at": "2024-01-20T10:00:00",
+  "source": "default",
+  "analysis_categories": [
+    {
+      "name": "Problem & Solution",
+      "weight": 20,
+      "description": "Clarity of problem definition and proposed solution"
+    },
+    {
+      "name": "Market Opportunity",
+      "weight": 15,
+      "description": "Market size, growth potential, and target market definition"
+    },
+    {
+      "name": "Business Model",
+      "weight": 15,
+      "description": "Revenue model, pricing strategy, and unit economics"
+    },
+    {
+      "name": "Competitive Advantage",
+      "weight": 15,
+      "description": "Unique value proposition and competitive positioning"
+    },
+    {
+      "name": "Traction & Validation",
+      "weight": 15,
+      "description": "Customer validation, growth metrics, and milestones"
+    },
+    {
+      "name": "Team",
+      "weight": 10,
+      "description": "Team experience, expertise, and completeness"
+    },
+    {
+      "name": "Financial Projections",
+      "weight": 10,
+      "description": "Financial forecasts, use of funds, and path to profitability"
+    }
+  ],
+  "evaluation_criteria": [
+    "Clarity and completeness of information",
+    "Data quality and supporting evidence",
+    "Persuasiveness and credibility",
+    "Professional presentation and design",
+    "Logical flow and storytelling",
+    "Realistic assumptions and projections"
+  ]
+}

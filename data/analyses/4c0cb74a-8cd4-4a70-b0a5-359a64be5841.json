@@ -1,0 +1,99 @@
+{
+  "overall_score": 1.0,
+  "category_scores": {
+    "Problem & Solution": 5.0,
+    "Market Opportunity": 0,
+    "Business Model": 0,
+    "Competitive Advantage": 0,
+    "Traction & Validation": 0,
+    "Team": 0,
+    "Financial Projections": 0
+  },
+  "category_feedback": {
+    "Problem & Solution": {
+      "analysis": "This pitch deck content is an academic overview of entrepreneurship, defining concepts, types, and characteristics. It completely fails to articulate a specific market problem or pain point that a venture aims to solve, and consequently, presents no solution or value proposition. This material is entirely unsuitable for a venture capital pitch's 'Problem & Solution' section.",
+      "key_points": [
+        "Presents a generic academic definition and classification of entrepreneurship, not a specific business problem.",
+        "Fails to identify any clear market problem, customer pain point, or unmet need.",
+        "Offers no specific solution, product, or service that addresses a problem for a target market.",
+        "Content is theoretical and descriptive, lacking the specific, data-driven problem and solution required for a pitch deck."
+      ]
+    },
+    "Market Opportunity": {
+      "analysis": "The provided content is a foundational academic overview of entrepreneurship, defining its origins, types, and characteristics. It completely lacks any specific discussion of a market opportunity, target customer, problem being solved, market size, growth potential, or competitive landscape relevant to a pitch deck seeking venture capital investment. There is no business idea or specific market presented whatsoever.",
+      "key_points": [
+        "Content is a generic academic introduction to entrepreneurship, not a business pitch.",
+        "No specific product, service, or business model is presented.",
+        "Completely devoid of any market analysis, customer segmentation, market size data, or competitive landscape.",
+        "Provides zero information to assess a specific market opportunity for investment."
+      ]
+    },
+    "Business Model": {
+      "analysis": "The provided content is a theoretical overview of entrepreneurship, its definitions, types, and characteristics, seemingly for an academic course. It entirely lacks specific details about a particular company's product, service, target market, revenue streams, cost structure, or operational plan, thus presenting no identifiable business model for evaluation.",
+      "key_points": [
+        "No specific business model is presented for a particular venture.",
+        "The content is a general academic introduction to entrepreneurship concepts.",
+        "Lacks critical business model components such as value proposition, target customers, revenue streams, or operational strategy."
+      ]
+    },
+    "Competitive Advantage": {
+      "analysis": "The provided content is a general academic overview of entrepreneurship concepts, types, and characteristics, seemingly for an educational course. It entirely lacks information about a specific business, product, market, or competitors. Consequently, there is a complete absence of any discussion or articulation of a competitive advantage for a particular venture, rendering it completely uninformative for this crucial evaluation criterion.",
+      "key_points": [
+        "No specific business venture or product/service is presented.",
+        "Content is a theoretical primer on entrepreneurship, not a pitch for a specific company.",
+        "Completely lacks any mention of market, customers, competitors, or differentiation strategies for a specific offering."
+      ]
+    },
+    "Traction & Validation": {
+      "analysis": "The provided pitch deck content is a theoretical overview of entrepreneurship, its definitions, types, and characteristics. It contains no information regarding a specific business idea, product, market, customer adoption, revenue, partnerships, or any form of validation or traction data. Therefore, there is no basis to evaluate the traction and validation aspects of a potential venture.",
+      "key_points": [
+        "No specific product or service is presented, making traction irrelevant.",
+        "Zero data or evidence of customer engagement, market adoption, or business performance.",
+        "The content is a general academic explanation, not a business pitch seeking investment."
+      ]
+    },
+    "Team": {
+      "analysis": "The provided content is an academic overview of entrepreneurship concepts and definitions, offering no information whatsoever about a specific team for a venture. It fails to introduce any individuals, their roles, experience, or why they are uniquely qualified to execute a business idea. Consequently, a venture capital analyst has no data to evaluate the 'Team' aspect of a pitch.",
+      "key_points": [
+        "No specific team members, founders, or key personnel are identified.",
+        "Lacks information on individual experience, expertise, roles, or historical performance relevant to a startup.",
+        "The content is a generic academic lecture on entrepreneurship, not a presentation of a startup's team."
+      ]
+    },
+    "Financial Projections": {
+      "analysis": "The provided pitch deck content is a theoretical overview of entrepreneurship, covering definitions, types, and characteristics. It entirely lacks any specific financial projections, revenue models, cost structures, funding requests, or future financial outlook for a specific venture. Consequently, there is no information to evaluate regarding financial viability or potential returns.",
+      "key_points": [
+        "No financial projections, revenue forecasts, or expense breakdowns are included in the content.",
+        "The deck focuses solely on academic definitions and types of entrepreneurship, not on a specific business's financials.",
+        "There is no mention of funding requirements, use of funds, or anticipated profitability.",
+        "It is impossible to assess the financial attractiveness or credibility of any proposed venture based on this content."
+      ]
+    }
+  },
+  "strengths": [
+    "Pitch deck shows potential in foundational areas"
+  ],
+  "weaknesses": [
+    "**Market Opportunity** (Score: 0): The provided content is a foundational academic overview of entrepreneurship, defining its origins, types, and characteristics. It completely lacks any specific discussion of a market opportunity, target customer, problem being solved, market size, growth potential, or competitive landscape relevant to a pitch deck seeking venture capital investment. There is no business idea or specific market presented whatsoever.",
+    "**Business Model** (Score: 0): The provided content is a theoretical overview of entrepreneurship, its definitions, types, and characteristics, seemingly for an academic course. It entirely lacks specific details about a particular company's product, service, target market, revenue streams, cost structure, or operational plan, thus presenting no identifiable business model for evaluation.",
+    "**Competitive Advantage** (Score: 0): The provided content is a general academic overview of entrepreneurship concepts, types, and characteristics, seemingly for an educational course. It entirely lacks information about a specific business, product, market, or competitors. Consequently, there is a complete absence of any discussion or articulation of a competitive advantage for a particular venture, rendering it completely uninformative for this crucial evaluation criterion."
+  ],
+  "recommendations": [
+    "Develop a dedicated 'Market Opportunity' slide clearly defining the Total Addressable Market (TAM), Serviceable Available Market (SAM), and Serviceable Obtainable Market (SOM) with supporting data and sources. Clearly identify and profile your initial target customer segment(s).",
+    "Create a 'Business Model' slide detailing your primary revenue streams (e.g., subscription, transaction fee, freemium), a clear pricing strategy (e.g., tiered, per-user), and a high-level overview of unit economics or customer acquisition strategy.",
+    "Introduce a 'Competitive Landscape' slide that identifies key direct and indirect competitors, outlines their strengths and weaknesses, and distinctly articulates your unique differentiators or sustainable competitive advantages (e.g., proprietary tech, unique data, network effect).",
+    "Add a 'Traction & Validation' slide showcasing any existing evidence of market acceptance, such as pilot program results, user acquisition numbers (even if small), early customer testimonials, pre-orders, or letters of intent from potential clients.",
+    "Include a 'Team' slide highlighting the core founding team members' relevant experience, expertise, and key accomplishments directly applicable to the venture, along with any critical advisors or early hires."
+  ],
+  "executive_summary": "This pitch deck demonstrates foundational potential in theoretical understanding but received a 1.0/100 score due to critical omissions. It completely lacks any definition of a specific market opportunity, target customer, or problem to be solved. Consequently, there is no discernible business model or articulated competitive advantage for a particular venture. The deck must transition from a general academic overview to a concrete business proposal to be considered for investment.",
+  "extracted_text": "HS-3001 Entrepreneurship Development  \nCourse Instructor: Dr Noopur, Assistant Professor  \nDeptt of Humanities  & Management, IIIT Ranchi  \n \nENTREPRENEURSHIP OVERVIEW  \nThe word entrepreneur originates from the F rench word, entreprendre, which means \"to \nundertake.\" Entrepreneurship is the ability and readiness to develop, organize and run a \nbusiness enterprise, along with any of its uncertainties in order to make a profit. The most \nprominent example of entrepreneurship is the starting of new businesses. In economics, \nentrepreneurship connected with land, labour, natural resources and capital can generate a \nprofit. The entrepreneurial vision is defined by discovery and risk -taking and is an \nindispensable part of a nation’s capacity to succeed in an ever -changing and more \ncompetitive global marketplace.  \nAustrian economist Joseph Schumpeter’s definition of entrepreneurship placed an emphasis  \non innovation, such as:  \n• New P roducts  \n• New Production M ethods  \n• New M arkets  \n• New Forms of O rganization  \n4 Types of Entrepreneurship  \nIt is classified into the following types:  \na. Small Business Entrepreneurship: These businesses are a hairdresser, grocery store, \ntravel agent, consultant, carpenter, plumber, electrician, etc. These people run or own \ntheir own business and hire family members or local employee. For them, the profit \nwould be able to feed their family and not making 100 million business or taking over \nan industry. They fund their business by taking small business loans or loans from \nfriends and family.  \n \nb. Scalable Start -up Entrepreneurship: This start -up entrepreneur starts a business \nknowing that their vision can change the world. They attract investors who think and \nencourage people who think out of the box. The research focuses on a scalable \nbusiness and experimental models, so, they hire the best and the brightest employees. \nThey require more venture capital to fuel and back their project or business.  \n \nc. Large Company Entrepreneurship: These huge companies have defined life -cycle. \nMost of these companies grow and sustain by offering new and innovative products \nthat revolve around their main products. The change in technology, customer \npreferences, new competition, etc., build pressure for large companies to create an \ninnovative product and sell it to the new set of customers in the new market. To cope \nwith the rapid technological changes, the existing organisations either buy innovation \nenterprises or attempt to construct the product internally.  \n \nd. Social Entrepreneurship:  This type of entrepreneurship focuses on producing product \nand services that resolve social needs and problems. Their only motto and goal is to \nwork for society and not make any profits.  \n \nChar acteristics of Entrepreneurship  \nNot all entrepreneurs are successful; there are def inite characteristics that make \nentrepreneurship successful. A few of them are mentioned below:  \n• Ability to take a risk - Starting any new venture involves a considerable amount of \nfailure risk. Therefore, an entrepreneur needs to be courageous and able to evaluate \nand take risks, which is an essential part of being an entrepreneur.  \n• Innovation - It should be highly innovative to generate new ideas, start a company and \nearn profits out of it. Change can be the launching of a new product that is new to the \nmarket or a process that does the same thing but in a more efficient and economical \nway.  \n• Visionary and Leadership quality - To be successful, the entrepreneur should have a \nclear vision of his new venture. However, to turn the idea into reality, a lot of \nresources and employees are required. Here, leadership quality is paramount because \nleaders impart and guide their employees towards the right path of success.  \n• Open -Minded - In a business, every circumstance can be an opportunity and used for \nthe benefit of a company. For example, Paytm recognised the gravity of \ndemonetization and acknowledged the need for online transactions would be more, so \nit utilised the situation and expanded massively during this time.  \n• Flexible - An entrepreneur should be flexible and open to change according to the \nsituation. To be on the top, a businessperson should be equipped to embrace change in \na product and service, as and when needed.  \n• Know your Product -A company owner should know the product offerings and also be \naware of the latest trend in the market. It is essential to know if the available product \nor service meets the demands of the current market, or whether it is time to tweak it a \nlittle. Being able to be accountable and then alter as needed is a vital part of \nentrepreneurship.  \nBarriers to Entrepreneurship  \nEvery entrepreneur establishes a start -up with the aim of making profits and defeating its \ncompetitors. But it is not as easy as it seems. There are lots of issues, problems, or barriers \nthat can arise and affect the smooth running of the business. Some of",
+  "metadata": {
+    "title": "",
+    "author": "Windows User",
+    "subject": "",
+    "creator": "Microsoft® Word 2021"
+  },
+  "filename": "HS 3001 ED UNIT 1.pdf",
+  "id": "4c0cb74a-8cd4-4a70-b0a5-359a64be5841",
+  "created_at": "2025-11-15T23:50:50.731519"
+}

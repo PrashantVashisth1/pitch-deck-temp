@@ -1,0 +1,1014 @@
+2025-10-20 13:09:17,106 - database - INFO - Initialized new database
+2025-10-20 13:09:21,327 - watchfiles.main - INFO - 4 changes detected
+2025-10-20 13:17:08,048 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-10-20 13:17:08,048 - main - INFO - Processing PDF...
+2025-10-20 13:17:08,048 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-10-20 13:17:08,132 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-10-20 13:17:08,132 - main - INFO - Analyzing with AI...
+2025-10-20 13:17:08,132 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-10-20 13:17:08,132 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-10-20 13:17:08,998 - ai_analyzer - ERROR - Error analyzing Problem & Solution: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:17:08,999 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-10-20 13:17:09,167 - ai_analyzer - ERROR - Error analyzing Market Opportunity: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:17:09,167 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-10-20 13:17:09,803 - ai_analyzer - ERROR - Error analyzing Business Model: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:17:09,804 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-10-20 13:17:09,972 - ai_analyzer - ERROR - Error analyzing Competitive Advantage: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:17:09,972 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-10-20 13:17:10,580 - ai_analyzer - ERROR - Error analyzing Traction & Validation: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:17:10,581 - ai_analyzer - INFO - Analyzing category: Team
+2025-10-20 13:17:10,756 - ai_analyzer - ERROR - Error analyzing Team: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:17:10,756 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-10-20 13:17:11,382 - ai_analyzer - ERROR - Error analyzing Financial Projections: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:17:11,543 - ai_analyzer - ERROR - Error generating recommendations: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:17:12,149 - ai_analyzer - ERROR - Error generating executive summary: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:17:12,149 - main - INFO - Saving to database...
+2025-10-20 13:17:12,167 - database - INFO - Saved analysis: 0d32daa4-d81f-49ae-a7f2-c0adca532893
+2025-10-20 13:17:12,167 - main - INFO - Generating report...
+2025-10-20 13:17:12,187 - report_generator - INFO - Generating report: 0d32daa4-d81f-49ae-a7f2-c0adca532893_report.pdf
+2025-10-20 13:17:12,223 - report_generator - INFO - Report generated successfully: ..\reports\0d32daa4-d81f-49ae-a7f2-c0adca532893_report.pdf
+2025-10-20 13:17:12,224 - main - INFO - Analysis completed successfully: 0d32daa4-d81f-49ae-a7f2-c0adca532893
+2025-10-20 13:19:14,722 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-10-20 13:19:14,722 - main - INFO - Processing PDF...
+2025-10-20 13:19:14,722 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-10-20 13:19:14,869 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-10-20 13:19:14,870 - main - INFO - Analyzing with AI...
+2025-10-20 13:19:14,870 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-10-20 13:19:14,870 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-10-20 13:19:15,032 - ai_analyzer - ERROR - Error analyzing Problem & Solution: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:19:15,032 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-10-20 13:19:15,653 - ai_analyzer - ERROR - Error analyzing Market Opportunity: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:19:15,653 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-10-20 13:19:15,822 - ai_analyzer - ERROR - Error analyzing Business Model: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:19:15,823 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-10-20 13:19:16,438 - ai_analyzer - ERROR - Error analyzing Competitive Advantage: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:19:16,439 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-10-20 13:19:16,620 - ai_analyzer - ERROR - Error analyzing Traction & Validation: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:19:16,620 - ai_analyzer - INFO - Analyzing category: Team
+2025-10-20 13:19:17,248 - ai_analyzer - ERROR - Error analyzing Team: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:19:17,248 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-10-20 13:19:17,425 - ai_analyzer - ERROR - Error analyzing Financial Projections: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:19:18,056 - ai_analyzer - ERROR - Error generating recommendations: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:19:18,214 - ai_analyzer - ERROR - Error generating executive summary: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:19:18,214 - main - INFO - Saving to database...
+2025-10-20 13:19:18,230 - database - INFO - Saved analysis: 7d31f19f-8db1-49ce-8084-07f101a4e62b
+2025-10-20 13:19:18,230 - main - INFO - Generating report...
+2025-10-20 13:19:18,265 - report_generator - INFO - Generating report: 7d31f19f-8db1-49ce-8084-07f101a4e62b_report.pdf
+2025-10-20 13:19:18,287 - report_generator - INFO - Report generated successfully: ..\reports\7d31f19f-8db1-49ce-8084-07f101a4e62b_report.pdf
+2025-10-20 13:19:18,287 - main - INFO - Analysis completed successfully: 7d31f19f-8db1-49ce-8084-07f101a4e62b
+2025-10-20 13:21:33,954 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-10-20 13:21:33,955 - main - INFO - Processing PDF...
+2025-10-20 13:21:33,955 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-10-20 13:21:34,061 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-10-20 13:21:34,062 - main - INFO - Analyzing with AI...
+2025-10-20 13:21:34,062 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-10-20 13:21:34,063 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-10-20 13:21:34,234 - ai_analyzer - ERROR - Error analyzing Problem & Solution: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:21:34,234 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-10-20 13:21:34,842 - ai_analyzer - ERROR - Error analyzing Market Opportunity: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:21:34,844 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-10-20 13:21:35,011 - ai_analyzer - ERROR - Error analyzing Business Model: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:21:35,012 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-10-20 13:21:35,624 - ai_analyzer - ERROR - Error analyzing Competitive Advantage: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:21:35,625 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-10-20 13:21:35,788 - ai_analyzer - ERROR - Error analyzing Traction & Validation: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:21:35,789 - ai_analyzer - INFO - Analyzing category: Team
+2025-10-20 13:21:36,402 - ai_analyzer - ERROR - Error analyzing Team: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:21:36,404 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-10-20 13:21:36,575 - ai_analyzer - ERROR - Error analyzing Financial Projections: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:21:37,179 - ai_analyzer - ERROR - Error generating recommendations: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:21:37,355 - ai_analyzer - ERROR - Error generating executive summary: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-20 13:21:37,356 - main - INFO - Saving to database...
+2025-10-20 13:21:37,380 - database - INFO - Saved analysis: 81777260-bb87-4988-83a9-02db778f12f8
+2025-10-20 13:21:37,381 - main - INFO - Generating report...
+2025-10-20 13:21:37,399 - report_generator - INFO - Generating report: 81777260-bb87-4988-83a9-02db778f12f8_report.pdf
+2025-10-20 13:21:37,427 - report_generator - INFO - Report generated successfully: ..\reports\81777260-bb87-4988-83a9-02db778f12f8_report.pdf
+2025-10-20 13:21:37,427 - main - INFO - Analysis completed successfully: 81777260-bb87-4988-83a9-02db778f12f8
+2025-10-25 15:14:08,493 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-10-25 15:14:08,494 - main - INFO - Processing PDF...
+2025-10-25 15:14:08,495 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-10-25 15:14:08,646 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-10-25 15:14:08,646 - main - INFO - Analyzing with AI...
+2025-10-25 15:14:08,646 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-10-25 15:14:08,647 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-10-25 15:14:09,522 - ai_analyzer - ERROR - Error analyzing Problem & Solution: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:14:09,523 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-10-25 15:14:09,697 - ai_analyzer - ERROR - Error analyzing Market Opportunity: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:14:09,697 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-10-25 15:14:10,281 - ai_analyzer - ERROR - Error analyzing Business Model: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:14:10,282 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-10-25 15:14:10,578 - ai_analyzer - ERROR - Error analyzing Competitive Advantage: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:14:10,578 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-10-25 15:14:11,093 - ai_analyzer - ERROR - Error analyzing Traction & Validation: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:14:11,093 - ai_analyzer - INFO - Analyzing category: Team
+2025-10-25 15:14:11,364 - ai_analyzer - ERROR - Error analyzing Team: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:14:11,365 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-10-25 15:14:11,914 - ai_analyzer - ERROR - Error analyzing Financial Projections: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:14:12,145 - ai_analyzer - ERROR - Error generating recommendations: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:14:12,733 - ai_analyzer - ERROR - Error generating executive summary: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:14:12,734 - main - INFO - Saving to database...
+2025-10-25 15:14:12,754 - database - INFO - Saved analysis: 934a450f-e6e3-41dd-a709-1c142f7e2272
+2025-10-25 15:14:12,754 - main - INFO - Generating report...
+2025-10-25 15:14:12,777 - report_generator - INFO - Generating report: 934a450f-e6e3-41dd-a709-1c142f7e2272_report.pdf
+2025-10-25 15:14:12,816 - report_generator - INFO - Report generated successfully: ..\reports\934a450f-e6e3-41dd-a709-1c142f7e2272_report.pdf
+2025-10-25 15:14:12,817 - main - INFO - Analysis completed successfully: 934a450f-e6e3-41dd-a709-1c142f7e2272
+2025-10-25 15:21:10,144 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-10-25 15:21:10,145 - main - INFO - Processing PDF...
+2025-10-25 15:21:10,145 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-10-25 15:21:10,416 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-10-25 15:21:10,418 - main - INFO - Analyzing with AI...
+2025-10-25 15:21:10,418 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-10-25 15:21:10,419 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-10-25 15:21:11,238 - ai_analyzer - ERROR - Error analyzing Problem & Solution: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:21:11,240 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-10-25 15:21:11,403 - ai_analyzer - ERROR - Error analyzing Market Opportunity: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:21:11,404 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-10-25 15:21:12,024 - ai_analyzer - ERROR - Error analyzing Business Model: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:21:12,025 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-10-25 15:21:12,180 - ai_analyzer - ERROR - Error analyzing Competitive Advantage: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:21:12,181 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-10-25 15:21:12,893 - ai_analyzer - ERROR - Error analyzing Traction & Validation: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:21:12,893 - ai_analyzer - INFO - Analyzing category: Team
+2025-10-25 15:21:13,058 - ai_analyzer - ERROR - Error analyzing Team: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:21:13,058 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-10-25 15:21:13,713 - ai_analyzer - ERROR - Error analyzing Financial Projections: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:21:13,876 - ai_analyzer - ERROR - Error generating recommendations: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:21:14,531 - ai_analyzer - ERROR - Error generating executive summary: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:21:14,532 - main - INFO - Saving to database...
+2025-10-25 15:21:14,558 - database - INFO - Saved analysis: 1a2b25b9-7cc5-4b1e-ad44-22a576d51110
+2025-10-25 15:21:14,558 - main - INFO - Generating report...
+2025-10-25 15:21:14,588 - report_generator - INFO - Generating report: 1a2b25b9-7cc5-4b1e-ad44-22a576d51110_report.pdf
+2025-10-25 15:21:14,616 - report_generator - INFO - Report generated successfully: ..\reports\1a2b25b9-7cc5-4b1e-ad44-22a576d51110_report.pdf
+2025-10-25 15:21:14,617 - main - INFO - Analysis completed successfully: 1a2b25b9-7cc5-4b1e-ad44-22a576d51110
+2025-10-25 15:23:19,486 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-10-25 15:23:19,487 - main - INFO - Processing PDF...
+2025-10-25 15:23:19,489 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-10-25 15:23:19,587 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-10-25 15:23:19,588 - main - INFO - Analyzing with AI...
+2025-10-25 15:23:19,588 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-10-25 15:23:19,589 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-10-25 15:23:19,767 - ai_analyzer - ERROR - Error analyzing Problem & Solution: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:19,768 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-10-25 15:23:20,486 - ai_analyzer - ERROR - Error analyzing Market Opportunity: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:20,487 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-10-25 15:23:20,636 - ai_analyzer - ERROR - Error analyzing Business Model: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:20,637 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-10-25 15:23:21,306 - ai_analyzer - ERROR - Error analyzing Competitive Advantage: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:21,307 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-10-25 15:23:21,475 - ai_analyzer - ERROR - Error analyzing Traction & Validation: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:21,475 - ai_analyzer - INFO - Analyzing category: Team
+2025-10-25 15:23:22,224 - ai_analyzer - ERROR - Error analyzing Team: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:22,224 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-10-25 15:23:22,391 - ai_analyzer - ERROR - Error analyzing Financial Projections: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:23,042 - ai_analyzer - ERROR - Error generating recommendations: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:23,194 - ai_analyzer - ERROR - Error generating executive summary: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:23,194 - main - INFO - Saving to database...
+2025-10-25 15:23:23,230 - database - INFO - Saved analysis: e7fb8665-aa50-42df-bfbd-ca5732b605ea
+2025-10-25 15:23:23,230 - main - INFO - Generating report...
+2025-10-25 15:23:23,257 - report_generator - INFO - Generating report: e7fb8665-aa50-42df-bfbd-ca5732b605ea_report.pdf
+2025-10-25 15:23:23,284 - report_generator - INFO - Report generated successfully: ..\reports\e7fb8665-aa50-42df-bfbd-ca5732b605ea_report.pdf
+2025-10-25 15:23:23,284 - main - INFO - Analysis completed successfully: e7fb8665-aa50-42df-bfbd-ca5732b605ea
+2025-10-25 15:23:32,412 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-10-25 15:23:32,412 - main - INFO - Processing PDF...
+2025-10-25 15:23:32,412 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-10-25 15:23:32,512 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-10-25 15:23:32,512 - main - INFO - Analyzing with AI...
+2025-10-25 15:23:32,512 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-10-25 15:23:32,512 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-10-25 15:23:32,674 - ai_analyzer - ERROR - Error analyzing Problem & Solution: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:32,674 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-10-25 15:23:33,287 - ai_analyzer - ERROR - Error analyzing Market Opportunity: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:33,289 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-10-25 15:23:33,470 - ai_analyzer - ERROR - Error analyzing Business Model: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:33,473 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-10-25 15:23:34,106 - ai_analyzer - ERROR - Error analyzing Competitive Advantage: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:34,106 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-10-25 15:23:34,292 - ai_analyzer - ERROR - Error analyzing Traction & Validation: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:34,292 - ai_analyzer - INFO - Analyzing category: Team
+2025-10-25 15:23:34,924 - ai_analyzer - ERROR - Error analyzing Team: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:34,926 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-10-25 15:23:35,106 - ai_analyzer - ERROR - Error analyzing Financial Projections: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:35,744 - ai_analyzer - ERROR - Error generating recommendations: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:35,890 - ai_analyzer - ERROR - Error generating executive summary: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:23:35,890 - main - INFO - Saving to database...
+2025-10-25 15:23:35,917 - database - INFO - Saved analysis: 15c1ed36-5862-4d27-8f17-fd9da4d635ae
+2025-10-25 15:23:35,918 - main - INFO - Generating report...
+2025-10-25 15:23:35,946 - report_generator - INFO - Generating report: 15c1ed36-5862-4d27-8f17-fd9da4d635ae_report.pdf
+2025-10-25 15:23:35,974 - report_generator - INFO - Report generated successfully: ..\reports\15c1ed36-5862-4d27-8f17-fd9da4d635ae_report.pdf
+2025-10-25 15:23:35,975 - main - INFO - Analysis completed successfully: 15c1ed36-5862-4d27-8f17-fd9da4d635ae
+2025-10-25 15:31:49,355 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-10-25 15:31:49,356 - main - INFO - Processing PDF...
+2025-10-25 15:31:49,356 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-10-25 15:31:49,444 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-10-25 15:31:49,444 - main - INFO - Analyzing with AI...
+2025-10-25 15:31:49,445 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-10-25 15:31:49,445 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-10-25 15:31:50,440 - ai_analyzer - ERROR - Error analyzing Problem & Solution: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:31:50,441 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-10-25 15:31:50,645 - ai_analyzer - ERROR - Error analyzing Market Opportunity: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:31:50,645 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-10-25 15:31:51,255 - ai_analyzer - ERROR - Error analyzing Business Model: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:31:51,256 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-10-25 15:31:51,468 - ai_analyzer - ERROR - Error analyzing Competitive Advantage: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:31:51,469 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-10-25 15:31:52,161 - ai_analyzer - ERROR - Error analyzing Traction & Validation: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:31:52,162 - ai_analyzer - INFO - Analyzing category: Team
+2025-10-25 15:31:52,360 - ai_analyzer - ERROR - Error analyzing Team: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:31:52,361 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-10-25 15:31:53,072 - ai_analyzer - ERROR - Error analyzing Financial Projections: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:31:53,288 - ai_analyzer - ERROR - Error generating recommendations: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:31:54,061 - ai_analyzer - ERROR - Error generating executive summary: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:31:54,061 - main - INFO - Saving to database...
+2025-10-25 15:31:54,092 - database - INFO - Saved analysis: 7587118d-d1ca-40db-92a9-fae23fc5448b
+2025-10-25 15:31:54,092 - main - INFO - Saving JSON to analyse folder...
+2025-10-25 15:31:54,096 - main - INFO - Generating report...
+2025-10-25 15:31:54,129 - report_generator - INFO - Generating report: 7587118d-d1ca-40db-92a9-fae23fc5448b_report.pdf
+2025-10-25 15:31:54,165 - report_generator - INFO - Report generated successfully: ..\reports\7587118d-d1ca-40db-92a9-fae23fc5448b_report.pdf
+2025-10-25 15:31:54,166 - main - INFO - Analysis completed successfully: 7587118d-d1ca-40db-92a9-fae23fc5448b
+2025-10-25 15:43:14,449 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-10-25 15:43:14,450 - main - INFO - Processing PDF...
+2025-10-25 15:43:14,450 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-10-25 15:43:14,559 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-10-25 15:43:14,560 - main - INFO - Analyzing with AI...
+2025-10-25 15:43:14,560 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-10-25 15:43:14,560 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-10-25 15:43:15,241 - ai_analyzer - ERROR - Error analyzing Problem & Solution: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:43:15,242 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-10-25 15:43:15,746 - ai_analyzer - ERROR - Error analyzing Market Opportunity: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:43:15,746 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-10-25 15:43:16,116 - ai_analyzer - ERROR - Error analyzing Business Model: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:43:16,116 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-10-25 15:43:16,661 - ai_analyzer - ERROR - Error analyzing Competitive Advantage: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:43:16,661 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-10-25 15:43:16,938 - ai_analyzer - ERROR - Error analyzing Traction & Validation: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:43:16,938 - ai_analyzer - INFO - Analyzing category: Team
+2025-10-25 15:43:17,593 - ai_analyzer - ERROR - Error analyzing Team: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:43:17,595 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-10-25 15:43:17,795 - ai_analyzer - ERROR - Error analyzing Financial Projections: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:43:18,618 - ai_analyzer - ERROR - Error generating recommendations: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:43:18,820 - ai_analyzer - ERROR - Error generating executive summary: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:43:18,821 - main - INFO - Saving to database...
+2025-10-25 15:43:18,850 - database - INFO - Saved analysis: 99afc71d-4d62-4407-93e1-6ad0bdf94d5a
+2025-10-25 15:43:18,850 - main - INFO - Saving JSON to analyses folder...
+2025-10-25 15:43:18,853 - main - INFO - Generating report...
+2025-10-25 15:43:18,880 - report_generator - INFO - Generating report: 99afc71d-4d62-4407-93e1-6ad0bdf94d5a_report.pdf
+2025-10-25 15:43:18,914 - report_generator - INFO - Report generated successfully: ..\reports\99afc71d-4d62-4407-93e1-6ad0bdf94d5a_report.pdf
+2025-10-25 15:43:18,915 - main - INFO - Analysis completed successfully: 99afc71d-4d62-4407-93e1-6ad0bdf94d5a
+2025-10-25 15:57:12,128 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-10-25 15:57:12,130 - main - INFO - Processing PDF...
+2025-10-25 15:57:12,130 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-10-25 15:57:12,382 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-10-25 15:57:12,382 - main - INFO - Analyzing with AI...
+2025-10-25 15:57:12,382 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-10-25 15:57:12,383 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-10-25 15:57:13,249 - ai_analyzer - ERROR - Error analyzing Problem & Solution: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:57:13,249 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-10-25 15:57:13,459 - ai_analyzer - ERROR - Error analyzing Market Opportunity: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:57:13,460 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-10-25 15:57:14,050 - ai_analyzer - ERROR - Error analyzing Business Model: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:57:14,051 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-10-25 15:57:14,261 - ai_analyzer - ERROR - Error analyzing Competitive Advantage: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:57:14,262 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-10-25 15:57:14,862 - ai_analyzer - ERROR - Error analyzing Traction & Validation: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:57:14,863 - ai_analyzer - INFO - Analyzing category: Team
+2025-10-25 15:57:15,069 - ai_analyzer - ERROR - Error analyzing Team: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:57:15,070 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-10-25 15:57:15,748 - ai_analyzer - ERROR - Error analyzing Financial Projections: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:57:15,952 - ai_analyzer - ERROR - Error generating recommendations: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:57:16,677 - ai_analyzer - ERROR - Error generating executive summary: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 15:57:16,677 - main - INFO - Saving to database...
+2025-10-25 15:57:16,709 - database - INFO - Saved analysis: f26511d6-210c-4ad2-8251-46a2a75c6f78
+2025-10-25 15:57:16,709 - main - INFO - Saving JSON to analyses folder...
+2025-10-25 15:57:16,711 - main - INFO - Generating report...
+2025-10-25 15:57:16,734 - report_generator - INFO - Generating report: f26511d6-210c-4ad2-8251-46a2a75c6f78_report.pdf
+2025-10-25 15:57:16,765 - report_generator - INFO - Report generated successfully: ..\reports\f26511d6-210c-4ad2-8251-46a2a75c6f78_report.pdf
+2025-10-25 15:57:16,765 - main - INFO - Analysis completed successfully: f26511d6-210c-4ad2-8251-46a2a75c6f78
+2025-10-25 16:01:22,703 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-10-25 16:01:22,703 - main - INFO - Processing PDF...
+2025-10-25 16:01:22,706 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-10-25 16:01:22,800 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-10-25 16:01:22,800 - main - INFO - Analyzing with AI...
+2025-10-25 16:01:22,800 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-10-25 16:01:22,800 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-10-25 16:01:23,702 - ai_analyzer - ERROR - Error analyzing Problem & Solution: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:01:23,703 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-10-25 16:01:23,895 - ai_analyzer - ERROR - Error analyzing Market Opportunity: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:01:23,895 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-10-25 16:01:24,509 - ai_analyzer - ERROR - Error analyzing Business Model: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:01:24,511 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-10-25 16:01:24,712 - ai_analyzer - ERROR - Error analyzing Competitive Advantage: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:01:24,712 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-10-25 16:01:25,411 - ai_analyzer - ERROR - Error analyzing Traction & Validation: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:01:25,412 - ai_analyzer - INFO - Analyzing category: Team
+2025-10-25 16:01:25,634 - ai_analyzer - ERROR - Error analyzing Team: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:01:25,635 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-10-25 16:01:26,334 - ai_analyzer - ERROR - Error analyzing Financial Projections: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:01:26,526 - ai_analyzer - ERROR - Error generating recommendations: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:01:27,255 - ai_analyzer - ERROR - Error generating executive summary: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:01:27,256 - main - INFO - Saving to database...
+2025-10-25 16:01:27,263 - database - INFO - Saved analysis: 7099aeae-969d-40dd-85a7-d94026548a2f
+2025-10-25 16:01:27,263 - main - INFO - Saving JSON to analyses folder...
+2025-10-25 16:01:27,264 - main - INFO - Generating report...
+2025-10-25 16:01:27,296 - report_generator - INFO - Generating report: 7099aeae-969d-40dd-85a7-d94026548a2f_report.pdf
+2025-10-25 16:01:27,322 - report_generator - INFO - Report generated successfully: ..\reports\7099aeae-969d-40dd-85a7-d94026548a2f_report.pdf
+2025-10-25 16:01:27,323 - main - INFO - Analysis completed successfully: 7099aeae-969d-40dd-85a7-d94026548a2f
+2025-10-25 16:09:10,301 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-10-25 16:09:10,302 - main - INFO - Processing PDF...
+2025-10-25 16:09:10,304 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-10-25 16:09:10,401 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-10-25 16:09:10,401 - main - INFO - Analyzing with AI...
+2025-10-25 16:09:10,402 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-10-25 16:09:10,403 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-10-25 16:09:11,446 - ai_analyzer - ERROR - Error analyzing Problem & Solution: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:09:11,447 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-10-25 16:09:11,644 - ai_analyzer - ERROR - Error analyzing Market Opportunity: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:09:11,645 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-10-25 16:09:12,467 - ai_analyzer - ERROR - Error analyzing Business Model: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:09:12,469 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-10-25 16:09:12,665 - ai_analyzer - ERROR - Error analyzing Competitive Advantage: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:09:12,665 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-10-25 16:09:13,273 - ai_analyzer - ERROR - Error analyzing Traction & Validation: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:09:13,274 - ai_analyzer - INFO - Analyzing category: Team
+2025-10-25 16:09:13,693 - ai_analyzer - ERROR - Error analyzing Team: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:09:13,693 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-10-25 16:09:14,084 - ai_analyzer - ERROR - Error analyzing Financial Projections: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:09:14,457 - ai_analyzer - ERROR - Error generating recommendations: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:09:14,927 - ai_analyzer - ERROR - Error generating executive summary: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-25 16:09:14,928 - main - INFO - Saving to database...
+2025-10-25 16:09:14,932 - database - INFO - Saved analysis: f7c4bda5-f711-426e-bb48-14c247c8810b
+2025-10-25 16:09:14,932 - main - INFO - Saving JSON to analyses folder...
+2025-10-25 16:09:14,935 - main - INFO - Generating report...
+2025-10-25 16:09:14,967 - report_generator - INFO - Generating report: f7c4bda5-f711-426e-bb48-14c247c8810b_report.pdf
+2025-10-25 16:09:15,000 - report_generator - INFO - Report generated successfully: ..\reports\f7c4bda5-f711-426e-bb48-14c247c8810b_report.pdf
+2025-10-25 16:09:15,001 - main - INFO - Analysis completed successfully: f7c4bda5-f711-426e-bb48-14c247c8810b
+2025-10-25 16:13:34,483 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-10-25 16:13:34,483 - main - INFO - Processing PDF...
+2025-10-25 16:13:34,484 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-10-25 16:13:34,606 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-10-25 16:13:34,607 - main - INFO - Analyzing with AI...
+2025-10-25 16:13:34,607 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-10-25 16:13:34,608 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-10-25 16:13:52,540 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-10-25 16:14:10,461 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-10-25 16:14:16,299 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-10-25 16:14:26,025 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-10-25 16:14:47,170 - ai_analyzer - INFO - Analyzing category: Team
+2025-10-25 16:14:54,955 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-10-25 16:15:25,321 - main - INFO - Saving to database...
+2025-10-25 16:15:25,348 - database - INFO - Saved analysis: b1993705-2b93-43e3-99b4-213026f6b590
+2025-10-25 16:15:25,348 - main - INFO - Saving JSON to analyses folder...
+2025-10-25 16:15:25,350 - main - INFO - Generating report...
+2025-10-25 16:15:25,377 - report_generator - INFO - Generating report: b1993705-2b93-43e3-99b4-213026f6b590_report.pdf
+2025-10-25 16:15:25,444 - report_generator - INFO - Report generated successfully: ..\reports\b1993705-2b93-43e3-99b4-213026f6b590_report.pdf
+2025-10-25 16:15:25,444 - main - INFO - Analysis completed successfully: b1993705-2b93-43e3-99b4-213026f6b590
+2025-10-25 16:20:20,562 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-10-25 16:20:20,563 - main - INFO - Processing PDF...
+2025-10-25 16:20:20,563 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-10-25 16:20:20,753 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-10-25 16:20:20,754 - main - INFO - Analyzing with AI...
+2025-10-25 16:20:20,754 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-10-25 16:20:20,755 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-10-25 16:20:33,913 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-10-25 16:20:40,218 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-10-25 16:20:46,549 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-10-25 16:20:56,351 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-10-25 16:21:13,723 - ai_analyzer - INFO - Analyzing category: Team
+2025-10-25 16:21:22,653 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-10-25 16:21:54,131 - main - INFO - Saving to database...
+2025-10-25 16:21:54,166 - database - INFO - Saved analysis: 7f8969ae-dcf5-4370-9cbb-91ceef9f20ff
+2025-10-25 16:21:54,166 - main - INFO - Saving JSON to analyses folder...
+2025-10-25 16:21:54,169 - main - INFO - Generating report...
+2025-10-25 16:21:54,198 - report_generator - INFO - Generating report: 7f8969ae-dcf5-4370-9cbb-91ceef9f20ff_report.pdf
+2025-10-25 16:21:54,263 - report_generator - INFO - Report generated successfully: ..\reports\7f8969ae-dcf5-4370-9cbb-91ceef9f20ff_report.pdf
+2025-10-25 16:21:54,264 - main - INFO - Analysis completed successfully: 7f8969ae-dcf5-4370-9cbb-91ceef9f20ff
+2025-10-25 16:23:07,890 - main - INFO - Received file for analysis: Neural Draft Pitch Deck (v3) (1).pdf
+2025-10-25 16:23:07,891 - main - INFO - Processing PDF...
+2025-10-25 16:23:07,893 - pdf_processor - INFO - Processing PDF bytes: Neural Draft Pitch Deck (v3) (1).pdf
+2025-10-25 16:23:11,437 - pdf_processor - INFO - Successfully processed Neural Draft Pitch Deck (v3) (1).pdf: 14 pages, 1068 words
+2025-10-25 16:23:11,438 - main - INFO - Analyzing with AI...
+2025-10-25 16:23:11,438 - ai_analyzer - INFO - Analyzing pitch deck: Neural Draft Pitch Deck (v3) (1).pdf
+2025-10-25 16:23:11,438 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-10-25 16:23:20,515 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-10-25 16:23:31,836 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-10-25 16:23:43,900 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-10-25 16:23:56,240 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-10-25 16:24:12,178 - ai_analyzer - INFO - Analyzing category: Team
+2025-10-25 16:24:21,025 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-10-25 16:24:57,491 - main - INFO - Saving to database...
+2025-10-25 16:24:57,517 - database - INFO - Saved analysis: 587e06aa-b6ce-4626-a0d4-f59e7bc05980
+2025-10-25 16:24:57,518 - main - INFO - Saving JSON to analyses folder...
+2025-10-25 16:24:57,520 - main - INFO - Generating report...
+2025-10-25 16:24:57,546 - report_generator - INFO - Generating report: 587e06aa-b6ce-4626-a0d4-f59e7bc05980_report.pdf
+2025-10-25 16:24:57,598 - report_generator - INFO - Report generated successfully: ..\reports\587e06aa-b6ce-4626-a0d4-f59e7bc05980_report.pdf
+2025-10-25 16:24:57,598 - main - INFO - Analysis completed successfully: 587e06aa-b6ce-4626-a0d4-f59e7bc05980
+2025-11-03 10:27:17,535 - main - INFO - Received file for analysis: Neural Draft Pitch Deck (v3) (1).pdf
+2025-11-03 10:27:17,540 - main - INFO - Processing PDF...
+2025-11-03 10:27:17,540 - pdf_processor - INFO - Processing PDF bytes: Neural Draft Pitch Deck (v3) (1).pdf
+2025-11-03 10:27:20,996 - pdf_processor - INFO - Successfully processed Neural Draft Pitch Deck (v3) (1).pdf: 14 pages, 1068 words
+2025-11-03 10:27:20,996 - main - INFO - Analyzing with AI...
+2025-11-03 10:27:20,997 - ai_analyzer - INFO - Analyzing pitch deck: Neural Draft Pitch Deck (v3) (1).pdf
+2025-11-03 10:27:20,997 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-11-03 10:27:33,029 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-11-03 10:27:44,444 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-11-03 10:27:53,715 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-11-03 10:28:03,817 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-11-03 10:28:15,090 - ai_analyzer - INFO - Analyzing category: Team
+2025-11-03 10:28:20,182 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-11-03 10:28:49,468 - main - INFO - Saving to database...
+2025-11-03 10:28:49,497 - database - INFO - Saved analysis: c959689b-1d54-457f-bb4c-300a53150869
+2025-11-03 10:28:49,497 - main - INFO - Saving JSON to analyses folder...
+2025-11-03 10:28:49,499 - main - INFO - Generating report...
+2025-11-03 10:28:49,526 - report_generator - INFO - Generating report: c959689b-1d54-457f-bb4c-300a53150869_report.pdf
+2025-11-03 10:28:49,601 - report_generator - INFO - Report generated successfully: ..\reports\c959689b-1d54-457f-bb4c-300a53150869_report.pdf
+2025-11-03 10:28:49,601 - main - INFO - Analysis completed successfully: c959689b-1d54-457f-bb4c-300a53150869
+2025-11-15 22:24:14,512 - watchfiles.main - INFO - 5 changes detected
+2025-11-15 22:24:52,036 - main - INFO - Received file for analysis: Neural Draft Pitch Deck (v3) (1).pdf
+2025-11-15 22:24:52,039 - main - INFO - Processing PDF...
+2025-11-15 22:24:52,039 - pdf_processor - INFO - Processing PDF bytes: Neural Draft Pitch Deck (v3) (1).pdf
+2025-11-15 22:24:54,908 - pdf_processor - INFO - Successfully processed Neural Draft Pitch Deck (v3) (1).pdf: 14 pages, 1068 words
+2025-11-15 22:24:54,908 - main - INFO - Analyzing with AI...
+2025-11-15 22:24:54,908 - ai_analyzer - INFO - Analyzing pitch deck: Neural Draft Pitch Deck (v3) (1).pdf
+2025-11-15 22:24:54,908 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-11-15 22:24:55,642 - ai_analyzer - ERROR - Error analyzing Problem & Solution: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-11-15 22:24:55,642 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-11-15 22:24:55,770 - ai_analyzer - ERROR - Error analyzing Market Opportunity: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-11-15 22:24:55,774 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-11-15 22:24:56,138 - ai_analyzer - ERROR - Error analyzing Business Model: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-11-15 22:24:56,138 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-11-15 22:24:56,266 - ai_analyzer - ERROR - Error analyzing Competitive Advantage: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-11-15 22:24:56,266 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-11-15 22:24:56,628 - ai_analyzer - ERROR - Error analyzing Traction & Validation: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-11-15 22:24:56,628 - ai_analyzer - INFO - Analyzing category: Team
+2025-11-15 22:24:56,774 - ai_analyzer - ERROR - Error analyzing Team: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-11-15 22:24:56,779 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-11-15 22:24:57,105 - ai_analyzer - ERROR - Error analyzing Financial Projections: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-11-15 22:24:57,259 - ai_analyzer - ERROR - Error generating recommendations: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-11-15 22:24:57,603 - ai_analyzer - ERROR - Error generating executive summary: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-11-15 22:24:57,604 - main - INFO - Saving to database...
+2025-11-15 22:24:57,622 - database - INFO - Saved analysis: 92bbe5fe-a180-4d57-9f7d-b3e004377b59
+2025-11-15 22:24:57,623 - main - INFO - Saving JSON to analyses folder...
+2025-11-15 22:24:57,625 - main - INFO - Generating PDF report...
+2025-11-15 22:24:57,645 - report_generator - INFO - Generating report: 92bbe5fe-a180-4d57-9f7d-b3e004377b59_report.pdf
+2025-11-15 22:24:57,678 - report_generator - INFO - Report generated successfully: ..\reports\92bbe5fe-a180-4d57-9f7d-b3e004377b59_report.pdf
+2025-11-15 22:24:57,679 - main - INFO - Analysis completed successfully: 92bbe5fe-a180-4d57-9f7d-b3e004377b59
+2025-11-15 22:26:47,307 - watchfiles.main - INFO - 1 change detected
+2025-11-15 22:26:48,427 - watchfiles.main - INFO - 1 change detected
+2025-11-15 22:26:49,647 - watchfiles.main - INFO - 1 change detected
+2025-11-15 22:27:39,336 - main - INFO - Received file for analysis: Neural Draft Pitch Deck (v3) (1).pdf
+2025-11-15 22:27:39,336 - main - INFO - Processing PDF...
+2025-11-15 22:27:39,336 - pdf_processor - INFO - Processing PDF bytes: Neural Draft Pitch Deck (v3) (1).pdf
+2025-11-15 22:27:42,201 - pdf_processor - INFO - Successfully processed Neural Draft Pitch Deck (v3) (1).pdf: 14 pages, 1068 words
+2025-11-15 22:27:42,201 - main - INFO - Analyzing with AI...
+2025-11-15 22:27:42,201 - ai_analyzer - INFO - Analyzing pitch deck: Neural Draft Pitch Deck (v3) (1).pdf
+2025-11-15 22:27:42,201 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-11-15 22:27:42,338 - ai_analyzer - ERROR - Error analyzing Problem & Solution: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-11-15 22:27:42,338 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-11-15 22:27:42,689 - ai_analyzer - ERROR - Error analyzing Market Opportunity: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-11-15 22:27:42,689 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-11-15 22:27:42,821 - ai_analyzer - ERROR - Error analyzing Business Model: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-11-15 22:27:42,821 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-11-15 22:27:43,172 - ai_analyzer - ERROR - Error analyzing Competitive Advantage: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-11-15 22:27:43,173 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-11-15 22:27:43,297 - ai_analyzer - ERROR - Error analyzing Traction & Validation: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-11-15 22:27:43,297 - ai_analyzer - INFO - Analyzing category: Team
+2025-11-15 22:27:43,647 - ai_analyzer - ERROR - Error analyzing Team: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-11-15 22:27:43,648 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-11-15 22:27:43,770 - ai_analyzer - ERROR - Error analyzing Financial Projections: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-11-15 22:27:44,092 - ai_analyzer - ERROR - Error generating recommendations: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-11-15 22:27:44,226 - ai_analyzer - ERROR - Error generating executive summary: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+2025-11-15 22:27:44,226 - main - INFO - Saving to database...
+2025-11-15 22:27:44,248 - database - INFO - Saved analysis: d04de84f-3ec6-4c48-96a5-2514def61bff
+2025-11-15 22:27:44,249 - main - INFO - Saving JSON to analyses folder...
+2025-11-15 22:27:44,250 - main - INFO - Generating PDF report...
+2025-11-15 22:27:44,275 - report_generator - INFO - Generating report: d04de84f-3ec6-4c48-96a5-2514def61bff_report.pdf
+2025-11-15 22:27:44,312 - report_generator - INFO - Report generated successfully: ..\reports\d04de84f-3ec6-4c48-96a5-2514def61bff_report.pdf
+2025-11-15 22:27:44,312 - main - INFO - Analysis completed successfully: d04de84f-3ec6-4c48-96a5-2514def61bff
+2025-11-15 22:28:00,756 - watchfiles.main - INFO - 2 changes detected
+2025-11-15 22:28:01,114 - watchfiles.main - INFO - 1 change detected
+2025-11-15 22:28:40,311 - watchfiles.main - INFO - 2 changes detected
+2025-11-15 22:28:51,610 - watchfiles.main - INFO - 1 change detected
+2025-11-15 22:28:53,678 - watchfiles.main - INFO - 1 change detected
+2025-11-15 22:30:49,855 - watchfiles.main - INFO - 1 change detected
+2025-11-15 22:31:16,925 - watchfiles.main - INFO - 2 changes detected
+2025-11-15 22:33:07,633 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-11-15 22:33:07,634 - main - INFO - Processing PDF...
+2025-11-15 22:33:07,634 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-11-15 22:33:07,722 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-11-15 22:33:07,722 - main - INFO - Analyzing with AI...
+2025-11-15 22:33:07,723 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-11-15 22:33:07,723 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-11-15 22:33:18,508 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-11-15 22:33:32,000 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-11-15 22:33:37,390 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-11-15 22:33:44,024 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-11-15 22:33:57,811 - ai_analyzer - INFO - Analyzing category: Team
+2025-11-15 22:34:03,640 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-11-15 22:34:20,840 - ai_analyzer - ERROR - Error generating executive summary: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-11-15 22:34:20,840 - main - INFO - Saving to database...
+2025-11-15 22:34:20,869 - database - INFO - Saved analysis: dee6d22e-4c7d-42e1-9ad7-46524085ef67
+2025-11-15 22:34:20,870 - main - INFO - Saving JSON to analyses folder...
+2025-11-15 22:34:20,872 - main - INFO - Generating PDF report...
+2025-11-15 22:34:20,892 - report_generator - INFO - Generating report: dee6d22e-4c7d-42e1-9ad7-46524085ef67_report.pdf
+2025-11-15 22:34:20,974 - report_generator - INFO - Report generated successfully: ..\reports\dee6d22e-4c7d-42e1-9ad7-46524085ef67_report.pdf
+2025-11-15 22:34:20,974 - main - INFO - Analysis completed successfully: dee6d22e-4c7d-42e1-9ad7-46524085ef67
+2025-11-15 22:40:50,103 - watchfiles.main - INFO - 2 changes detected
+2025-11-15 22:40:50,460 - watchfiles.main - INFO - 1 change detected
+2025-11-15 22:43:36,763 - main - INFO - Received file for analysis: Neural Draft Pitch Deck (v3) (1).pdf
+2025-11-15 22:43:36,765 - main - INFO - Processing PDF...
+2025-11-15 22:43:36,766 - pdf_processor - INFO - Processing PDF bytes: Neural Draft Pitch Deck (v3) (1).pdf
+2025-11-15 22:43:39,443 - pdf_processor - INFO - Successfully processed Neural Draft Pitch Deck (v3) (1).pdf: 14 pages, 1068 words
+2025-11-15 22:43:39,444 - main - INFO - Analyzing with AI...
+2025-11-15 22:43:39,444 - ai_analyzer - INFO - Analyzing pitch deck: Neural Draft Pitch Deck (v3) (1).pdf
+2025-11-15 22:43:39,445 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-11-15 22:43:48,326 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-11-15 22:43:55,349 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-11-15 22:44:06,230 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-11-15 22:44:17,686 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-11-15 22:44:25,709 - ai_analyzer - INFO - Analyzing category: Team
+2025-11-15 22:44:31,348 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-11-15 22:45:01,180 - main - INFO - Saving to database...
+2025-11-15 22:45:01,204 - database - INFO - Saved analysis: 4104e8b6-febc-4ab7-8b69-8ec215646c45
+2025-11-15 22:45:01,205 - main - INFO - Saving JSON to analyses folder...
+2025-11-15 22:45:01,207 - main - INFO - Generating PDF report...
+2025-11-15 22:45:01,235 - report_generator - INFO - Generating report: 4104e8b6-febc-4ab7-8b69-8ec215646c45_report.pdf
+2025-11-15 22:45:01,301 - report_generator - INFO - Report generated successfully: ..\reports\4104e8b6-febc-4ab7-8b69-8ec215646c45_report.pdf
+2025-11-15 22:45:01,302 - main - INFO - Analysis completed successfully: 4104e8b6-febc-4ab7-8b69-8ec215646c45
+2025-11-15 22:52:32,867 - watchfiles.main - INFO - 5 changes detected
+2025-11-15 22:54:14,493 - main - INFO - Received file for analysis: Neural Draft Pitch Deck (v3) (1).pdf
+2025-11-15 22:54:14,496 - main - INFO - Processing PDF...
+2025-11-15 22:54:14,496 - pdf_processor - INFO - Processing PDF bytes: Neural Draft Pitch Deck (v3) (1).pdf
+2025-11-15 22:54:17,227 - pdf_processor - INFO - Successfully processed Neural Draft Pitch Deck (v3) (1).pdf: 14 pages, 1068 words
+2025-11-15 22:54:17,227 - main - INFO - Analyzing with AI...
+2025-11-15 22:54:17,228 - ai_analyzer - INFO - Analyzing pitch deck: Neural Draft Pitch Deck (v3) (1).pdf
+2025-11-15 22:54:17,228 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-11-15 22:54:24,171 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-11-15 22:54:33,670 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-11-15 22:54:42,090 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-11-15 22:54:52,572 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-11-15 22:55:01,766 - ai_analyzer - INFO - Analyzing category: Team
+2025-11-15 22:55:09,285 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-11-15 22:55:37,642 - main - INFO - Saving to database...
+2025-11-15 22:55:37,670 - database - INFO - Saved analysis: 5d631657-2d8f-47f0-bf89-cb697d401029
+2025-11-15 22:55:37,670 - main - INFO - Saving JSON to analyses folder...
+2025-11-15 22:55:37,672 - main - INFO - Generating PDF report...
+2025-11-15 22:55:37,694 - report_generator - INFO - Generating report: 5d631657-2d8f-47f0-bf89-cb697d401029_report.pdf
+2025-11-15 22:55:37,799 - report_generator - INFO - Report generated successfully: ..\reports\5d631657-2d8f-47f0-bf89-cb697d401029_report.pdf
+2025-11-15 22:55:37,799 - main - INFO - Analysis completed successfully: 5d631657-2d8f-47f0-bf89-cb697d401029
+2025-11-15 22:55:37,800 - main - INFO - Report saved at: ..\reports\5d631657-2d8f-47f0-bf89-cb697d401029_report.pdf
+2025-11-15 22:57:00,934 - watchfiles.main - INFO - 5 changes detected
+2025-11-15 22:57:30,548 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-11-15 22:57:30,550 - main - INFO - Processing PDF...
+2025-11-15 22:57:30,550 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-11-15 22:57:30,647 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-11-15 22:57:30,647 - main - INFO - Analyzing with AI...
+2025-11-15 22:57:30,647 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-11-15 22:57:30,647 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-11-15 22:57:43,745 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-11-15 22:57:51,615 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-11-15 22:57:57,253 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-11-15 22:58:05,143 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-11-15 22:58:19,935 - ai_analyzer - INFO - Analyzing category: Team
+2025-11-15 22:58:25,385 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-11-15 22:58:48,077 - main - INFO - Saving to database...
+2025-11-15 22:58:48,101 - database - INFO - Saved analysis: b272eedb-2783-4e0c-9ca3-57b775658686
+2025-11-15 22:58:48,102 - main - INFO - Saving JSON to analyses folder...
+2025-11-15 22:58:48,103 - main - INFO - Generating PDF report...
+2025-11-15 22:58:48,123 - report_generator - INFO - Generating report: b272eedb-2783-4e0c-9ca3-57b775658686_report.pdf
+2025-11-15 22:58:48,186 - report_generator - INFO - Report generated successfully: C:\coding\OrionEudverse\picth_desk\reports\b272eedb-2783-4e0c-9ca3-57b775658686_report.pdf
+2025-11-15 22:58:48,186 - main - INFO - Analysis completed successfully: b272eedb-2783-4e0c-9ca3-57b775658686
+2025-11-15 22:58:48,187 - main - INFO - Report saved at: C:\coding\OrionEudverse\picth_desk\reports\b272eedb-2783-4e0c-9ca3-57b775658686_report.pdf
+2025-11-15 22:59:23,774 - watchfiles.main - INFO - 1 change detected
+2025-11-15 23:02:51,186 - report_generator - INFO - Report generator initialized with directory: C:\coding\OrionEudverse\picth_desk\reports
+2025-11-15 23:02:51,186 - report_generator - INFO - No logo configured
+2025-11-15 23:02:54,664 - report_generator - INFO - Report generator initialized with directory: C:\coding\OrionEudverse\picth_desk\reports
+2025-11-15 23:02:54,665 - report_generator - INFO - No logo configured
+2025-11-15 23:02:54,823 - report_generator - INFO - Report generator initialized with directory: C:\coding\OrionEudverse\picth_desk\reports
+2025-11-15 23:02:54,823 - report_generator - INFO - No logo configured
+2025-11-15 23:03:12,341 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-11-15 23:03:12,341 - main - INFO - Processing PDF...
+2025-11-15 23:03:12,341 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-11-15 23:03:12,416 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-11-15 23:03:12,416 - main - INFO - Analyzing with AI...
+2025-11-15 23:03:12,416 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-11-15 23:03:12,416 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-11-15 23:03:24,067 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-11-15 23:03:33,769 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-11-15 23:03:42,338 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-11-15 23:03:50,098 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-11-15 23:04:00,647 - ai_analyzer - INFO - Analyzing category: Team
+2025-11-15 23:04:08,780 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-11-15 23:04:30,137 - main - INFO - Saving to database...
+2025-11-15 23:04:30,161 - database - INFO - Saved analysis: 37499699-7c4f-4c27-b512-b9ca204fc0e8
+2025-11-15 23:04:30,162 - main - INFO - Saving JSON to analyses folder...
+2025-11-15 23:04:30,164 - main - INFO - Generating PDF report...
+2025-11-15 23:04:30,191 - report_generator - INFO - Generating report: 37499699-7c4f-4c27-b512-b9ca204fc0e8_report.pdf at C:\coding\OrionEudverse\picth_desk\reports\37499699-7c4f-4c27-b512-b9ca204fc0e8_report.pdf
+2025-11-15 23:04:30,295 - report_generator - INFO - Report generated successfully: C:\coding\OrionEudverse\picth_desk\reports\37499699-7c4f-4c27-b512-b9ca204fc0e8_report.pdf
+2025-11-15 23:04:30,296 - report_generator - INFO - Report file exists: True
+2025-11-15 23:04:30,297 - report_generator - INFO - Report file size: 17663 bytes
+2025-11-15 23:04:30,297 - main - INFO - Analysis completed successfully: 37499699-7c4f-4c27-b512-b9ca204fc0e8
+2025-11-15 23:04:30,298 - main - INFO - Report saved at: C:\coding\OrionEudverse\picth_desk\reports\37499699-7c4f-4c27-b512-b9ca204fc0e8_report.pdf
+2025-11-15 23:06:33,790 - watchfiles.main - INFO - 1 change detected
+2025-11-15 23:06:41,824 - watchfiles.main - INFO - 5 changes detected
+2025-11-15 23:06:42,185 - report_generator - INFO - Report generator initialized with directory: C:\coding\OrionEudverse\picth_desk\reports
+2025-11-15 23:06:42,356 - report_generator - INFO - Report generator initialized with directory: C:\coding\OrionEudverse\picth_desk\reports
+2025-11-15 23:07:00,987 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-11-15 23:07:00,988 - main - INFO - Processing PDF...
+2025-11-15 23:07:00,988 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-11-15 23:07:01,096 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-11-15 23:07:01,097 - main - INFO - Analyzing with AI...
+2025-11-15 23:07:01,097 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-11-15 23:07:01,098 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-11-15 23:07:18,320 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-11-15 23:07:26,728 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-11-15 23:07:33,417 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-11-15 23:07:39,444 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-11-15 23:07:56,006 - ai_analyzer - INFO - Analyzing category: Team
+2025-11-15 23:08:04,547 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-11-15 23:08:25,844 - main - INFO - Saving to database...
+2025-11-15 23:08:25,863 - database - INFO - Saved analysis: 4bc9fb6d-4c1f-4604-ae7f-8561883a922b
+2025-11-15 23:08:25,863 - main - INFO - Saving JSON to analyses folder...
+2025-11-15 23:08:25,865 - main - INFO - Generating PDF report...
+2025-11-15 23:08:25,883 - report_generator - INFO - Generating report: 4bc9fb6d-4c1f-4604-ae7f-8561883a922b_report.pdf
+2025-11-15 23:08:25,942 - report_generator - INFO - Report generated successfully: C:\coding\OrionEudverse\picth_desk\reports\4bc9fb6d-4c1f-4604-ae7f-8561883a922b_report.pdf
+2025-11-15 23:08:25,942 - main - INFO - Analysis completed successfully: 4bc9fb6d-4c1f-4604-ae7f-8561883a922b
+2025-11-15 23:08:25,942 - main - INFO - Report saved at: C:\coding\OrionEudverse\picth_desk\reports\4bc9fb6d-4c1f-4604-ae7f-8561883a922b_report.pdf
+2025-11-15 23:09:09,206 - watchfiles.main - INFO - 1 change detected
+2025-11-15 23:10:22,031 - watchfiles.main - INFO - 1 change detected
+2025-11-15 23:10:26,990 - watchfiles.main - INFO - 5 changes detected
+2025-11-15 23:10:27,353 - report_generator - INFO - Report generator initialized with directory: C:\coding\OrionEudverse\picth_desk\reports
+2025-11-15 23:10:27,522 - report_generator - INFO - Report generator initialized with directory: C:\coding\OrionEudverse\picth_desk\reports
+2025-11-15 23:10:44,925 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-11-15 23:10:44,926 - main - INFO - Processing PDF...
+2025-11-15 23:10:44,926 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-11-15 23:10:45,007 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-11-15 23:10:45,007 - main - INFO - Analyzing with AI...
+2025-11-15 23:10:45,007 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-11-15 23:10:45,007 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-11-15 23:10:51,937 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-11-15 23:11:02,348 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-11-15 23:11:11,413 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-11-15 23:11:19,963 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-11-15 23:11:33,328 - ai_analyzer - INFO - Analyzing category: Team
+2025-11-15 23:11:40,116 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-11-15 23:12:04,597 - main - INFO - Saving to database...
+2025-11-15 23:12:04,620 - database - INFO - Saved analysis: e463e38e-ff11-4223-91ff-2581485cec63
+2025-11-15 23:12:04,620 - main - INFO - Saving JSON to analyses folder...
+2025-11-15 23:12:04,622 - main - INFO - Generating PDF report...
+2025-11-15 23:12:04,646 - report_generator - INFO - Generating report: e463e38e-ff11-4223-91ff-2581485cec63_report.pdf
+2025-11-15 23:12:04,718 - report_generator - INFO - Report generated successfully: C:\coding\OrionEudverse\picth_desk\reports\e463e38e-ff11-4223-91ff-2581485cec63_report.pdf
+2025-11-15 23:12:04,719 - main - INFO - Analysis completed successfully: e463e38e-ff11-4223-91ff-2581485cec63
+2025-11-15 23:12:04,719 - main - INFO - Report saved at: C:\coding\OrionEudverse\picth_desk\reports\e463e38e-ff11-4223-91ff-2581485cec63_report.pdf
+2025-11-15 23:14:26,918 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-11-15 23:14:26,919 - main - INFO - Processing PDF...
+2025-11-15 23:14:26,919 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-11-15 23:14:27,012 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-11-15 23:14:27,012 - main - INFO - Analyzing with AI...
+2025-11-15 23:14:27,013 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-11-15 23:14:27,013 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-11-15 23:14:35,214 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-11-15 23:14:41,516 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-11-15 23:14:48,040 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-11-15 23:14:57,309 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-11-15 23:15:12,993 - ai_analyzer - INFO - Analyzing category: Team
+2025-11-15 23:15:21,241 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-11-15 23:15:46,612 - main - INFO - Saving to database...
+2025-11-15 23:15:46,628 - database - INFO - Saved analysis: fd23a13f-f72e-4d52-aa7d-4357dc0cd1d2
+2025-11-15 23:15:46,628 - main - INFO - Saving JSON to analyses folder...
+2025-11-15 23:15:46,643 - main - INFO - Generating PDF report...
+2025-11-15 23:15:46,663 - report_generator - INFO - Generating report: fd23a13f-f72e-4d52-aa7d-4357dc0cd1d2_report.pdf
+2025-11-15 23:15:46,733 - report_generator - INFO - Report generated successfully: C:\coding\OrionEudverse\picth_desk\reports\fd23a13f-f72e-4d52-aa7d-4357dc0cd1d2_report.pdf
+2025-11-15 23:15:46,733 - main - INFO - Analysis completed successfully: fd23a13f-f72e-4d52-aa7d-4357dc0cd1d2
+2025-11-15 23:15:46,733 - main - INFO - Report saved at: C:\coding\OrionEudverse\picth_desk\reports\fd23a13f-f72e-4d52-aa7d-4357dc0cd1d2_report.pdf
+2025-11-15 23:17:26,328 - watchfiles.main - INFO - 1 change detected
+2025-11-15 23:17:54,759 - report_generator - INFO - Report generator initialized with directory: C:\coding\OrionEudverse\picth_desk\reports
+2025-11-15 23:17:58,812 - report_generator - INFO - Report generator initialized with directory: C:\coding\OrionEudverse\picth_desk\reports
+2025-11-15 23:17:59,023 - report_generator - INFO - Report generator initialized with directory: C:\coding\OrionEudverse\picth_desk\reports
+2025-11-15 23:17:59,111 - watchfiles.main - INFO - 5 changes detected
+2025-11-15 23:18:21,533 - main - INFO - ========== NEW ANALYSIS REQUEST ==========
+2025-11-15 23:18:21,533 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-11-15 23:18:21,533 - main - INFO - Return JSON: False
+2025-11-15 23:18:21,534 - main - INFO - Reading file content...
+2025-11-15 23:18:21,534 - main - INFO - File content read: 3593 bytes
+2025-11-15 23:18:21,534 - main - INFO - Processing PDF...
+2025-11-15 23:18:21,534 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-11-15 23:18:21,625 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-11-15 23:18:21,625 - main - INFO - PDF processed successfully. Pages extracted: 0
+2025-11-15 23:18:21,626 - main - INFO - Analyzing with AI...
+2025-11-15 23:18:21,626 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-11-15 23:18:21,627 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-11-15 23:18:38,546 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-11-15 23:18:51,854 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-11-15 23:19:00,673 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-11-15 23:19:08,078 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-11-15 23:19:17,370 - ai_analyzer - INFO - Analyzing category: Team
+2025-11-15 23:19:24,835 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-11-15 23:19:54,520 - main - INFO - AI analysis complete. Overall score: 49.25
+2025-11-15 23:19:54,520 - main - INFO - Saving to database...
+2025-11-15 23:19:54,545 - database - INFO - Saved analysis: 22718784-5b9b-4264-8878-24fdd280a6fe
+2025-11-15 23:19:54,545 - main - INFO - Analysis saved with ID: 22718784-5b9b-4264-8878-24fdd280a6fe
+2025-11-15 23:19:54,545 - main - INFO - Saving JSON to analyses folder...
+2025-11-15 23:19:54,545 - main - INFO - JSON saved to: ..\data\analyses\22718784-5b9b-4264-8878-24fdd280a6fe.json
+2025-11-15 23:19:54,545 - main - INFO - Generating PDF report...
+2025-11-15 23:19:54,581 - report_generator - INFO - Generating report: 22718784-5b9b-4264-8878-24fdd280a6fe_report.pdf
+2025-11-15 23:19:54,648 - report_generator - INFO - Report generated successfully: C:\coding\OrionEudverse\picth_desk\reports\22718784-5b9b-4264-8878-24fdd280a6fe_report.pdf
+2025-11-15 23:19:54,648 - main - INFO - Report generation returned path: C:\coding\OrionEudverse\picth_desk\reports\22718784-5b9b-4264-8878-24fdd280a6fe_report.pdf
+2025-11-15 23:19:54,648 - main - INFO - Report file verified: C:\coding\OrionEudverse\picth_desk\reports\22718784-5b9b-4264-8878-24fdd280a6fe_report.pdf (18748 bytes)
+2025-11-15 23:19:54,648 - main - INFO - ========== ANALYSIS COMPLETED: 22718784-5b9b-4264-8878-24fdd280a6fe ==========
+2025-11-15 23:19:54,648 - main - INFO - Returning PDF file: C:\coding\OrionEudverse\picth_desk\reports\22718784-5b9b-4264-8878-24fdd280a6fe_report.pdf
+2025-11-15 23:24:23,765 - report_generator - INFO - Report generator initialized with directory: C:\coding\OrionEudverse\picth_desk\reports
+2025-11-15 23:24:28,149 - report_generator - INFO - Report generator initialized with directory: C:\coding\OrionEudverse\picth_desk\reports
+2025-11-15 23:24:28,379 - report_generator - INFO - Report generator initialized with directory: C:\coding\OrionEudverse\picth_desk\reports
+2025-11-15 23:24:28,471 - watchfiles.main - INFO - 5 changes detected
+2025-11-15 23:24:50,884 - main - INFO - ========== NEW ANALYSIS REQUEST ==========
+2025-11-15 23:24:50,884 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-11-15 23:24:50,884 - main - INFO - Return JSON: False
+2025-11-15 23:24:50,884 - main - INFO - Reading file content...
+2025-11-15 23:24:50,884 - main - INFO - File content read: 3593 bytes
+2025-11-15 23:24:50,884 - main - INFO - Processing PDF...
+2025-11-15 23:24:50,884 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-11-15 23:24:50,975 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-11-15 23:24:50,975 - main - INFO - PDF processed successfully. Pages extracted: 0
+2025-11-15 23:24:50,975 - main - INFO - Analyzing with AI...
+2025-11-15 23:24:50,975 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-11-15 23:24:50,975 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-11-15 23:24:59,592 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-11-15 23:25:09,904 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-11-15 23:25:16,050 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-11-15 23:25:24,152 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-11-15 23:25:32,900 - ai_analyzer - INFO - Analyzing category: Team
+2025-11-15 23:25:40,699 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-11-15 23:26:11,337 - main - INFO - AI analysis complete. Overall score: 50.75
+2025-11-15 23:26:11,338 - main - INFO - Saving to database...
+2025-11-15 23:26:11,358 - database - INFO - Saved analysis: bc202433-396b-444b-9521-05355544ee26
+2025-11-15 23:26:11,358 - main - INFO - Analysis saved with ID: bc202433-396b-444b-9521-05355544ee26
+2025-11-15 23:26:11,359 - main - INFO - Saving JSON to analyses folder...
+2025-11-15 23:26:11,361 - main - INFO - JSON saved to: ..\data\analyses\bc202433-396b-444b-9521-05355544ee26.json
+2025-11-15 23:26:11,362 - main - INFO - Generating PDF report...
+2025-11-15 23:26:11,385 - report_generator - INFO - Generating report: bc202433-396b-444b-9521-05355544ee26_report.pdf
+2025-11-15 23:26:11,458 - report_generator - INFO - Report generated successfully: C:\coding\OrionEudverse\picth_desk\reports\bc202433-396b-444b-9521-05355544ee26_report.pdf
+2025-11-15 23:26:11,458 - main - INFO - Report generation returned path: C:\coding\OrionEudverse\picth_desk\reports\bc202433-396b-444b-9521-05355544ee26_report.pdf
+2025-11-15 23:26:11,459 - main - INFO - Report file verified: C:\coding\OrionEudverse\picth_desk\reports\bc202433-396b-444b-9521-05355544ee26_report.pdf (19663 bytes)
+2025-11-15 23:26:11,460 - main - INFO - ========== ANALYSIS COMPLETED: bc202433-396b-444b-9521-05355544ee26 ==========
+2025-11-15 23:26:11,460 - main - INFO - Returning PDF file: C:\coding\OrionEudverse\picth_desk\reports\bc202433-396b-444b-9521-05355544ee26_report.pdf
+2025-11-15 23:26:11,460 - main - INFO - Sending PDF file: 19663 bytes
+2025-11-15 23:26:11,473 - main - INFO - Serving latest report: C:\coding\OrionEudverse\picth_desk\reports\bc202433-396b-444b-9521-05355544ee26_report.pdf
+2025-11-15 23:26:14,530 - main - INFO - Serving latest report: C:\coding\OrionEudverse\picth_desk\reports\bc202433-396b-444b-9521-05355544ee26_report.pdf
+2025-11-15 23:28:58,438 - main - INFO - ========== NEW ANALYSIS REQUEST ==========
+2025-11-15 23:28:58,438 - main - INFO - Received file for analysis: sample_pitchdeck.pdf
+2025-11-15 23:28:58,438 - main - INFO - Return JSON: False
+2025-11-15 23:28:58,439 - main - INFO - Reading file content...
+2025-11-15 23:28:58,439 - main - INFO - File content read: 3593 bytes
+2025-11-15 23:28:58,440 - main - INFO - Processing PDF...
+2025-11-15 23:28:58,440 - pdf_processor - INFO - Processing PDF bytes: sample_pitchdeck.pdf
+2025-11-15 23:28:58,553 - pdf_processor - INFO - Successfully processed sample_pitchdeck.pdf: 2 pages, 133 words
+2025-11-15 23:28:58,553 - main - INFO - PDF processed successfully. Pages extracted: 0
+2025-11-15 23:28:58,554 - main - INFO - Analyzing with AI...
+2025-11-15 23:28:58,554 - ai_analyzer - INFO - Analyzing pitch deck: sample_pitchdeck.pdf
+2025-11-15 23:28:58,554 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-11-15 23:29:17,263 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-11-15 23:29:26,975 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-11-15 23:29:38,664 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-11-15 23:29:45,912 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-11-15 23:29:59,740 - ai_analyzer - INFO - Analyzing category: Team
+2025-11-15 23:30:05,415 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-11-15 23:30:26,935 - main - INFO - AI analysis complete. Overall score: 46.45
+2025-11-15 23:30:26,936 - main - INFO - Saving to database...
+2025-11-15 23:30:26,967 - database - INFO - Saved analysis: 561a5713-6813-4445-840a-6157b69de155
+2025-11-15 23:30:26,967 - main - INFO - Analysis saved with ID: 561a5713-6813-4445-840a-6157b69de155
+2025-11-15 23:30:26,967 - main - INFO - Saving JSON to analyses folder...
+2025-11-15 23:30:26,970 - main - INFO - JSON saved to: ..\data\analyses\561a5713-6813-4445-840a-6157b69de155.json
+2025-11-15 23:30:26,970 - main - INFO - Generating PDF report...
+2025-11-15 23:30:27,000 - report_generator - INFO - Generating report: 561a5713-6813-4445-840a-6157b69de155_report.pdf
+2025-11-15 23:30:27,070 - report_generator - INFO - Report generated successfully: C:\coding\OrionEudverse\picth_desk\reports\561a5713-6813-4445-840a-6157b69de155_report.pdf
+2025-11-15 23:30:27,070 - main - INFO - Report generation returned path: C:\coding\OrionEudverse\picth_desk\reports\561a5713-6813-4445-840a-6157b69de155_report.pdf
+2025-11-15 23:30:27,071 - main - INFO - Report file verified: C:\coding\OrionEudverse\picth_desk\reports\561a5713-6813-4445-840a-6157b69de155_report.pdf (19134 bytes)
+2025-11-15 23:30:27,071 - main - INFO - ========== ANALYSIS COMPLETED: 561a5713-6813-4445-840a-6157b69de155 ==========
+2025-11-15 23:30:27,072 - main - INFO - Returning PDF file: C:\coding\OrionEudverse\picth_desk\reports\561a5713-6813-4445-840a-6157b69de155_report.pdf
+2025-11-15 23:30:27,072 - main - INFO - Sending PDF file: 19134 bytes
+2025-11-15 23:30:54,354 - main - INFO - Serving latest report: C:\coding\OrionEudverse\picth_desk\reports\561a5713-6813-4445-840a-6157b69de155_report.pdf
+2025-11-15 23:31:35,012 - main - INFO - ========== NEW ANALYSIS REQUEST ==========
+2025-11-15 23:31:35,012 - main - INFO - Received file for analysis: lol.pdf
+2025-11-15 23:31:35,012 - main - INFO - Return JSON: False
+2025-11-15 23:31:35,012 - main - INFO - Reading file content...
+2025-11-15 23:31:35,012 - main - INFO - File content read: 161047 bytes
+2025-11-15 23:31:35,012 - main - INFO - Processing PDF...
+2025-11-15 23:31:35,012 - pdf_processor - INFO - Processing PDF bytes: lol.pdf
+2025-11-15 23:31:36,770 - pdf_processor - INFO - Successfully processed lol.pdf: 1 pages, 409 words
+2025-11-15 23:31:36,770 - main - INFO - PDF processed successfully. Pages extracted: 0
+2025-11-15 23:31:36,770 - main - INFO - Analyzing with AI...
+2025-11-15 23:31:36,770 - ai_analyzer - INFO - Analyzing pitch deck: lol.pdf
+2025-11-15 23:31:36,770 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-11-15 23:31:41,757 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-11-15 23:31:48,124 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-11-15 23:31:53,468 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-11-15 23:32:08,966 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-11-15 23:32:20,441 - ai_analyzer - INFO - Analyzing category: Team
+2025-11-15 23:32:34,970 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-11-15 23:32:50,876 - main - INFO - AI analysis complete. Overall score: 20.45
+2025-11-15 23:32:50,876 - main - INFO - Saving to database...
+2025-11-15 23:32:50,907 - database - INFO - Saved analysis: 10de643a-993a-4b28-8a96-9be4e5cc48b4
+2025-11-15 23:32:50,908 - main - INFO - Analysis saved with ID: 10de643a-993a-4b28-8a96-9be4e5cc48b4
+2025-11-15 23:32:50,908 - main - INFO - Saving JSON to analyses folder...
+2025-11-15 23:32:50,910 - main - INFO - JSON saved to: ..\data\analyses\10de643a-993a-4b28-8a96-9be4e5cc48b4.json
+2025-11-15 23:32:50,910 - main - INFO - Generating PDF report...
+2025-11-15 23:32:50,930 - report_generator - INFO - Generating report: 10de643a-993a-4b28-8a96-9be4e5cc48b4_report.pdf
+2025-11-15 23:32:50,977 - report_generator - INFO - Report generated successfully: C:\coding\OrionEudverse\picth_desk\reports\10de643a-993a-4b28-8a96-9be4e5cc48b4_report.pdf
+2025-11-15 23:32:50,977 - main - INFO - Report generation returned path: C:\coding\OrionEudverse\picth_desk\reports\10de643a-993a-4b28-8a96-9be4e5cc48b4_report.pdf
+2025-11-15 23:32:50,977 - main - INFO - Report file verified: C:\coding\OrionEudverse\picth_desk\reports\10de643a-993a-4b28-8a96-9be4e5cc48b4_report.pdf (19495 bytes)
+2025-11-15 23:32:50,977 - main - INFO - ========== ANALYSIS COMPLETED: 10de643a-993a-4b28-8a96-9be4e5cc48b4 ==========
+2025-11-15 23:32:50,977 - main - INFO - Returning PDF file: C:\coding\OrionEudverse\picth_desk\reports\10de643a-993a-4b28-8a96-9be4e5cc48b4_report.pdf
+2025-11-15 23:32:50,991 - main - INFO - Sending PDF file: 19495 bytes
+2025-11-15 23:32:51,018 - main - INFO - Serving report for download: C:\coding\OrionEudverse\picth_desk\reports\10de643a-993a-4b28-8a96-9be4e5cc48b4_report.pdf
+2025-11-15 23:33:09,162 - main - INFO - Serving latest report: C:\coding\OrionEudverse\picth_desk\reports\10de643a-993a-4b28-8a96-9be4e5cc48b4_report.pdf
+2025-11-15 23:34:00,733 - watchfiles.main - INFO - 1 change detected
+2025-11-15 23:34:01,746 - watchfiles.main - INFO - 1 change detected
+2025-11-15 23:49:11,315 - report_generator - INFO - Report generator initialized with directory: C:\coding\OrionEudverse\picth_desk\reports
+2025-11-15 23:49:14,464 - report_generator - INFO - Report generator initialized with directory: C:\coding\OrionEudverse\picth_desk\reports
+2025-11-15 23:49:14,776 - report_generator - INFO - Report generator initialized with directory: C:\coding\OrionEudverse\picth_desk\reports
+2025-11-15 23:49:14,861 - watchfiles.main - INFO - 5 changes detected
+2025-11-15 23:49:58,334 - main - INFO - ========== NEW ANALYSIS REQUEST ==========
+2025-11-15 23:49:58,334 - main - INFO - Received file for analysis: HS 3001 ED UNIT 1.pdf
+2025-11-15 23:49:58,335 - main - INFO - Return JSON: False
+2025-11-15 23:49:58,335 - main - INFO - Reading file content...
+2025-11-15 23:49:58,335 - main - INFO - File content read: 318508 bytes
+2025-11-15 23:49:58,336 - main - INFO - Processing PDF...
+2025-11-15 23:49:58,336 - pdf_processor - INFO - Processing PDF bytes: HS 3001 ED UNIT 1.pdf
+2025-11-15 23:49:59,838 - pdf_processor - INFO - Successfully processed HS 3001 ED UNIT 1.pdf: 14 pages, 5397 words
+2025-11-15 23:49:59,839 - main - INFO - PDF processed successfully. Pages extracted: 0
+2025-11-15 23:49:59,839 - main - INFO - Analyzing with AI...
+2025-11-15 23:49:59,839 - ai_analyzer - INFO - Analyzing pitch deck: HS 3001 ED UNIT 1.pdf
+2025-11-15 23:49:59,840 - ai_analyzer - INFO - Analyzing category: Problem & Solution
+2025-11-15 23:50:07,713 - ai_analyzer - INFO - Analyzing category: Market Opportunity
+2025-11-15 23:50:12,740 - ai_analyzer - INFO - Analyzing category: Business Model
+2025-11-15 23:50:17,375 - ai_analyzer - INFO - Analyzing category: Competitive Advantage
+2025-11-15 23:50:23,067 - ai_analyzer - INFO - Analyzing category: Traction & Validation
+2025-11-15 23:50:26,885 - ai_analyzer - INFO - Analyzing category: Team
+2025-11-15 23:50:33,716 - ai_analyzer - INFO - Analyzing category: Financial Projections
+2025-11-15 23:50:50,730 - main - INFO - AI analysis complete. Overall score: 1.0
+2025-11-15 23:50:50,731 - main - INFO - Saving to database...
+2025-11-15 23:50:50,739 - database - INFO - Saved analysis: 4c0cb74a-8cd4-4a70-b0a5-359a64be5841
+2025-11-15 23:50:50,740 - main - INFO - Analysis saved with ID: 4c0cb74a-8cd4-4a70-b0a5-359a64be5841
+2025-11-15 23:50:50,740 - main - INFO - Saving JSON to analyses folder...
+2025-11-15 23:50:50,743 - main - INFO - JSON saved to: ..\data\analyses\4c0cb74a-8cd4-4a70-b0a5-359a64be5841.json
+2025-11-15 23:50:50,743 - main - INFO - Generating PDF report...
+2025-11-15 23:50:50,759 - report_generator - INFO - Generating report: 4c0cb74a-8cd4-4a70-b0a5-359a64be5841_report.pdf
+2025-11-15 23:50:50,794 - report_generator - INFO - Report generated successfully: C:\coding\OrionEudverse\picth_desk\reports\4c0cb74a-8cd4-4a70-b0a5-359a64be5841_report.pdf
+2025-11-15 23:50:50,795 - main - INFO - Report generation returned path: C:\coding\OrionEudverse\picth_desk\reports\4c0cb74a-8cd4-4a70-b0a5-359a64be5841_report.pdf
+2025-11-15 23:50:50,796 - main - INFO - Report file verified: C:\coding\OrionEudverse\picth_desk\reports\4c0cb74a-8cd4-4a70-b0a5-359a64be5841_report.pdf (17477 bytes)
+2025-11-15 23:50:50,796 - main - INFO - ========== ANALYSIS COMPLETED: 4c0cb74a-8cd4-4a70-b0a5-359a64be5841 ==========
+2025-11-15 23:50:50,796 - main - INFO - Returning PDF file: C:\coding\OrionEudverse\picth_desk\reports\4c0cb74a-8cd4-4a70-b0a5-359a64be5841_report.pdf
+2025-11-15 23:50:50,797 - main - INFO - Sending PDF file: 17477 bytes
+2025-11-15 23:50:50,846 - main - INFO - Serving report for download: C:\coding\OrionEudverse\picth_desk\reports\4c0cb74a-8cd4-4a70-b0a5-359a64be5841_report.pdf
+2025-11-15 23:51:15,617 - main - INFO - Serving latest report: C:\coding\OrionEudverse\picth_desk\reports\4c0cb74a-8cd4-4a70-b0a5-359a64be5841_report.pdf

@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: pitch-deck-analyzer-api
+    ports:
+      - "8000:8000"
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - API_HOST=0.0.0.0
+      - API_PORT=8000
+      - DEBUG=${DEBUG:-False}
+      - DATA_DIR=/app/data
+      - REPORTS_DIR=/app/reports
+      - TEMP_DIR=/app/temp
+      - LOGS_DIR=/app/logs
+    volumes:
+      - ./data:/app/data
+      - ./reports:/app/reports
+      - ./temp:/app/temp
+      - ./logs:/app/logs
+      - ./backend:/app
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - pitch-deck-network
+
+networks:
+  pitch-deck-network:
+    driver: bridge
+
+volumes:
+  data:
+  reports:
+  logs:
